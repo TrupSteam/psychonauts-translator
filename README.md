@@ -1,4 +1,4 @@
-# psychonauts-TH-translation
+# 🧠 psychonauts-TH-translation
 
 It is a translation of the game Psychonauts into Thai. It will collect the Dialogues files that have been translated into Thai.
 
