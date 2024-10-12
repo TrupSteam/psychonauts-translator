@@ -1,3 +1,10 @@
+# psychonauts-TH-translation
+
+It is a translation of the game Psychonauts into Thai. It will collect the Dialogues files that have been translated into Thai.
+
+The extraction code and replacement code are originally from [TrupSteam/psychonauts-translator](https://github.com/TrupSteam/psychonauts-translator) and have been further developed to support python3.X.
+
+
 # How to translate the game? 
 
 0. Install Python 2.7
