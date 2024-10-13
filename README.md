@@ -7,15 +7,15 @@ The extraction code and replacement code are originally from [TrupSteam/psychona
 
 # How to translate the game? 
 
-0. Install Python 2.7
-1. Get last *.LUB files from Psychonauts\WorkResource\Localization\English
-2. Run: python unpack_strings.py AS_StringTable.lub 
-3. AS_StringTable.csv should appear next to the AS_StringTable.lub
-4. Change the ASCII-text of AS_StringTable.csv in a text editor
+0. Install Python 3.X
+1. Get last *.LUB files from `Psychonauts\WorkResource\Localization\English`
+2. Run: `python unpack_strings.py AS_StringTable.lub` 
+3. `AS_StringTable.csv` should appear next to the `AS_StringTable.lub`
+4. Change the ASCII-text of `AS_StringTable.csv` in a text editor
 5. Keep in mind that csv strings are separated by the '\r\n', but inside one in-game string - '\n'
-6. Run: python replace_strings.py AS_StringTable.lub AS_StringTable.csv AS_StringTable_new.lub
+6. Run: `python replace_strings.py AS_StringTable.lub AS_StringTable.csv AS_StringTable_new.lub`
 7. Replace original game file with the new one
-8. If your language contains not only Latin letters, you must replace Psychonauts\WorkResource\Fonts\*.dff
+8. If your language contains not only Latin letters, you must replace `Psychonauts\WorkResource\Fonts\*.dff`
 9. Check the game, everything should work
 
 # Fonts
@@ -39,5 +39,6 @@ E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 EA EB EC ED EE EF
 F0 F1 F2 F3 F4 F5 F6 F7 F8 F9 FA FB FC FD FE FF
 ```
 
-![psychonauts-char_full_eng](/char_full_eng.jpg)
+![psychonauts-char_full_eng](/docs/images/char_full_eng.jpg)
+![psychonauts-char_full_eng](/docs/images/char_full_rus.jpg)
 
