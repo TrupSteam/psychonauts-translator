@@ -1,6 +1,8 @@
 import argparse
 import struct
 
+from utils.file_util import read_binary, save_binary
+
 """
 Replaces old lines inside a *.LUB file with new ones from a *.CSV file
 
@@ -11,22 +13,7 @@ Example: python replace_strings.py AS_StringTable.lub AS_StringTable.csv AS_Stri
 ##############################################################
 
 
-def read_binary(path):
-    with open(path, "rb") as f:
-        return f.read()
-    return False
-
-
-def save_binary(path, data):
-    with open(path, "wb") as f:
-        return f.write(data)
-    return False
-
-
-##############################################################
-
-
-class LUB_PATCHER:
+class LUBPatcher:
 
     def __init__(self):
         self.csv_list = []
@@ -55,13 +42,12 @@ class LUB_PATCHER:
 
     def replace_in_lub(self, offset, size, new_str):
         self.lub_data = (
-            self.lub_data[:offset] + new_str +
-            self.lub_data[offset + size - 1:]
+            self.lub_data[:offset] + new_str + self.lub_data[offset + size - 1 :]
         )
         self.counter += 1
 
     def get_size_of_lua_str(self, offset):
-        bin_size = self.lub_data[offset: 4 + offset]
+        bin_size = self.lub_data[offset : 4 + offset]
         try:
             int_size = struct.unpack("I", bin_size)
             if not int_size:
@@ -106,5 +92,5 @@ if __name__ == "__main__":
     arg_parser.add_argument("csv_path")
     arg_parser.add_argument("out_path")
     args = arg_parser.parse_args()
-    lub_parser = LUB_PATCHER()
+    lub_parser = LUBPatcher()
     lub_parser.replace(args.lub_path, args.csv_path, args.out_path)

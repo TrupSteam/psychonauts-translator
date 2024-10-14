@@ -1,6 +1,10 @@
 import argparse
+import os
 import re
 import struct
+
+import constants
+from utils.file_util import get_filenames, read_binary, save_binary
 
 # """
 #  Convert *.LUB files (compiled lua4) to *.CSV (plain text) files
@@ -9,24 +13,6 @@ import struct
 
 #  Example: python unpack_strings.py AS_StringTable.lub
 # """
-
-
-##############################################################
-
-
-def read_binary(path):
-    with open(path, "rb") as f:
-        return f.read()
-    return False
-
-
-def save_binary(path, data):
-    with open(path, "wb") as f:
-        return f.write(data.encode("latin-1"))
-    return False
-
-
-##############################################################
 
 
 class FileReader:
@@ -64,7 +50,7 @@ class LuaHeader:
         self.endian = data.read_byte()
         self.size_int = data.read_byte()
         self.size_size_t = data.read_byte()
-        self.size_of_Instruction = data.read_byte()
+        self.size_of_instruction = data.read_byte()
         self.SIZE_INSTRUCTION = data.read_byte()
         self.SIZE_OP = data.read_byte()
         self.SIZE_B = data.read_byte()
@@ -102,7 +88,7 @@ class LocalsAll:
     def __init__(self, data):
         loc_vars = data.read_int32()
         self.vars = []
-        for i in range(loc_vars):
+        for _ in range(loc_vars):
             self.vars.append(LocalOne(data))
 
 
@@ -129,7 +115,7 @@ class LuaConstants:
         # strings used by the function
         self.str = []
         str_count = data.read_int32()
-        for i in range(str_count):
+        for _ in range(str_count):
             self.str.append(LuaString(data))
 
         # numbers used by the function
@@ -139,7 +125,7 @@ class LuaConstants:
         # functions defined inside the function
         self.func = []
         func_count = data.read_int32()
-        for i in range(func_count):
+        for _ in range(func_count):
             self.func.append(LuaFunction(data))
 
 
@@ -168,8 +154,8 @@ class LUBParser:
 
     def parse(self, path, dest_folder=None):
         print("unpacking {}...".format(path))
-        bin = read_binary(path)
-        reader = FileReader(bin)
+        _bin = read_binary(path)
+        reader = FileReader(_bin)
         self.parse_data(reader)
         if dest_folder:
             filename = path.split("/")[-1]
@@ -222,16 +208,7 @@ class LUBParser:
         rows = [header] + self.str
         str_data = "\r\n".join(rows)
         new_path = path[:-4] + ".csv"
-        save_binary(new_path, str_data)
-
-
-import os
-
-
-def get_filenames(folder_path):
-    for filename in os.listdir(folder_path):
-        if filename.endswith(".lub"):
-            yield os.path.join(folder_path, filename)
+        save_binary(new_path, str_data,encode="latin-1")
 
 
 ##############################################################
@@ -241,17 +218,22 @@ if __name__ == "__main__":
     arg_parser = argparse.ArgumentParser(
         description="Convert *.LUB files (compiled lua4) to *.CSV (plain text) files"
     )
-    arg_parser.add_argument("--file",dest="lub_file_path", required=False)
-    arg_parser.add_argument("--folder",dest="lub_folder_path", required=False)
-    arg_parser.add_argument("--dest",dest="dest_folder", required=False,default="dialogues")
+    arg_parser.add_argument("--file", dest="lub_file_path", required=False)
+    arg_parser.add_argument("--folder", dest="lub_folder_path", required=False)
+    arg_parser.add_argument(
+        "--dest",
+        dest="dest_folder",
+        required=False,
+        default=constants.DIALOGUES_FOLDER_NAME,
+    )
     args = arg_parser.parse_args()
 
     if args.lub_folder_path:
-        file_paths = get_filenames(args.lub_folder_path)
+        file_paths = get_filenames(args.lub_folder_path, type=".lub")
         for file_path in file_paths:
             lub_parser = LUBParser()
             lub_parser.parse(file_path, args.dest_folder)
-            
+
     elif args.lub_file_path:
         lub_parser = LUBParser()
         lub_parser.parse(args.lub_file_path, args.dest_folder)
