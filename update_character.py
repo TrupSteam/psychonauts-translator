@@ -1,9 +1,8 @@
 import csv
 import json
-import os
-from typing import Final
 
-CHARACTER_FILENAME: Final[str] = "character.json"
+import constants
+from utils.file_util import get_filenames
 
 
 def get_character_ids(file_path):
@@ -26,7 +25,7 @@ def get_all_character_ids(file_paths):
     return all_character_ids
 
 
-def update_character_json(character_ids, filename=CHARACTER_FILENAME):
+def update_character_json(character_ids, filename=constants.CHARACTER_NAME_FILE_PATH):
     new_character_ids = []
     with open(filename, mode="r", encoding="utf-8") as jsonfile:
         character_obj = json.load(jsonfile)
@@ -41,25 +40,17 @@ def update_character_json(character_ids, filename=CHARACTER_FILENAME):
     if new_character_ids:
         with open(filename, mode="w", encoding="utf-8") as jsonfile:
             json.dump(character_obj, jsonfile, indent=4, ensure_ascii=False)
-        print(f"updated {new_character_ids} to {CHARACTER_FILENAME}")
+        print(f"updated {new_character_ids} to {constants.CHARACTER_NAME_FILE_PATH}")
     else:
-        print(f"nothing to update {CHARACTER_FILENAME}")
-
-
-def get_filenames(folder_path):
-    for filename in os.listdir(folder_path):
-        if filename.endswith(".csv"):
-            yield os.path.join(folder_path, filename)
-
+        print(f"😑 nothing to update {constants.CHARACTER_NAME_FILE_PATH}")
 
 def update_character_name(csv_folder_name):
     file_paths = get_filenames(csv_folder_name)
     all_character_ids = get_all_character_ids(file_paths)
     update_character_json(all_character_ids)
-
-
+    
 def get_character_names(ids=None):
-    with open(CHARACTER_FILENAME, mode="r", encoding="utf-8") as jsonfile:
+    with open(constants.CHARACTER_NAME_FILE_PATH, mode="r", encoding="utf-8") as jsonfile:
         character_obj = json.load(jsonfile)
         if not ids:
             return character_obj
@@ -67,5 +58,4 @@ def get_character_names(ids=None):
 
 
 if __name__ == "__main__":
-    CSV_FOLDER_NAME = "dialogues"
-    update_character_name(CSV_FOLDER_NAME)
+    update_character_name(constants.DIALOGUES_FOLDER_NAME)
