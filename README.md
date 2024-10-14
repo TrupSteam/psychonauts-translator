@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 <img src="https://static.wikia.nocookie.net/psychonauts/images/2/21/Tumblr_m5h0k8g0kQ1qjm1bzo1_500.png/revision/latest?cb=20120822013745"
 width="200" 
 height="150" />
@@ -8,7 +8,7 @@ height="150" />
 <a href="https://github.com/Onyx-Nostalgia/psychonauts-TH-translation/blob/master/docs/README-TH.md">TH</a>
 
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
-</center>
+</div>
 
 ----------------------------
 
