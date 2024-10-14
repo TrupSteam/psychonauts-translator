@@ -1,0 +1,342 @@
+{
+    "GL": {
+        "EN": "Gloria",
+        "TH": "กลอเรีย"
+    },
+    "MI": {
+        "EN": "Milla",
+        "TH": "มิลล่า"
+    },
+    "RA": {
+        "EN": "Raz",
+        "TH": "แรซ"
+    },
+    "BO": {
+        "EN": "Boyd",
+        "TH": "บอยด์"
+    },
+    "LI": {
+        "EN": "Lili",
+        "TH": "ลิลี่"
+    },
+    "CO": {
+        "EN": "Coach",
+        "TH": "โค้ช"
+    },
+    "SA": {
+        "EN": "Sasha",
+        "TH": "ซาช่า"
+    },
+    "BN": {
+        "EN": "BN",
+        "TH": "BN"
+    },
+    "CP": {
+        "EN": "CP",
+        "TH": "CP"
+    },
+    "Z4": {
+        "EN": "Z4",
+        "TH": "Z4"
+    },
+    "Z3": {
+        "EN": "Z3",
+        "TH": "Z3"
+    },
+    "MF": {
+        "EN": "MF",
+        "TH": "MF"
+    },
+    "BZ": {
+        "EN": "BZ",
+        "TH": "BZ"
+    },
+    "CN": {
+        "EN": "CN",
+        "TH": "CN"
+    },
+    "FO": {
+        "EN": "FO",
+        "TH": "FO"
+    },
+    "HF": {
+        "EN": "HF",
+        "TH": "HF"
+    },
+    "DN": {
+        "EN": "DN",
+        "TH": "DN"
+    },
+    "CH": {
+        "EN": "CH",
+        "TH": "CH"
+    },
+    "SF": {
+        "EN": "SF",
+        "TH": "SF"
+    },
+    "ST": {
+        "EN": "ST",
+        "TH": "ST"
+    },
+    "MP": {
+        "EN": "MP",
+        "TH": "MP"
+    },
+    "LA": {
+        "EN": "LA",
+        "TH": "LA"
+    },
+    "CM": {
+        "EN": "CM",
+        "TH": "CM"
+    },
+    "FT": {
+        "EN": "FT",
+        "TH": "FT"
+    },
+    "EL": {
+        "EN": "EL",
+        "TH": "EL"
+    },
+    "SD": {
+        "EN": "SD",
+        "TH": "SD"
+    },
+    "P1": {
+        "EN": "P1",
+        "TH": "P1"
+    },
+    "P3": {
+        "EN": "P3",
+        "TH": "P3"
+    },
+    "MM": {
+        "EN": "MM",
+        "TH": "MM"
+    },
+    "CB": {
+        "EN": "CB",
+        "TH": "CB"
+    },
+    "PT": {
+        "EN": "PT",
+        "TH": "PT"
+    },
+    "JA": {
+        "EN": "JA",
+        "TH": "JA"
+    },
+    "LC": {
+        "EN": "LC",
+        "TH": "LC"
+    },
+    "RQ": {
+        "EN": "RQ",
+        "TH": "RQ"
+    },
+    "Z1": {
+        "EN": "Z1",
+        "TH": "Z1"
+    },
+    "AN": {
+        "EN": "AN",
+        "TH": "AN"
+    },
+    "EV": {
+        "EN": "EV",
+        "TH": "EV"
+    },
+    "LF": {
+        "EN": "LF",
+        "TH": "LF"
+    },
+    "GD": {
+        "EN": "GD",
+        "TH": "GD"
+    },
+    "BT": {
+        "EN": "BT",
+        "TH": "BT"
+    },
+    "FF": {
+        "EN": "FF",
+        "TH": "FF"
+    },
+    "DR": {
+        "EN": "DR",
+        "TH": "DR"
+    },
+    "DM": {
+        "EN": "DM",
+        "TH": "DM"
+    },
+    "BY": {
+        "EN": "BY",
+        "TH": "BY"
+    },
+    "LR": {
+        "EN": "LR",
+        "TH": "LR"
+    },
+    "JT": {
+        "EN": "JT",
+        "TH": "JT"
+    },
+    "TO": {
+        "EN": "TO",
+        "TH": "TO"
+    },
+    "HT": {
+        "EN": "HT",
+        "TH": "HT"
+    },
+    "DA": {
+        "EN": "DA",
+        "TH": "DA"
+    },
+    "LP": {
+        "EN": "LP",
+        "TH": "LP"
+    },
+    "LY": {
+        "EN": "LY",
+        "TH": "LY"
+    },
+    "KI": {
+        "EN": "KI",
+        "TH": "KI"
+    },
+    "BD": {
+        "EN": "BD",
+        "TH": "BD"
+    },
+    "PL": {
+        "EN": "PL",
+        "TH": "PL"
+    },
+    "BE": {
+        "EN": "BE",
+        "TH": "BE"
+    },
+    "CF": {
+        "EN": "CF",
+        "TH": "CF"
+    },
+    "DO": {
+        "EN": "Dogen",
+        "TH": "โดแกน"
+    },
+    "MH": {
+        "EN": "MH",
+        "TH": "MH"
+    },
+    "MD": {
+        "EN": "MD",
+        "TH": "MD"
+    },
+    "EA": {
+        "EN": "EA",
+        "TH": "EA"
+    },
+    "SB": {
+        "EN": "SB",
+        "TH": "SB"
+    },
+    "CL": {
+        "EN": "CL",
+        "TH": "CL"
+    },
+    "FA": {
+        "EN": "FA",
+        "TH": "FA"
+    },
+    "CR": {
+        "EN": "CR",
+        "TH": "CR"
+    },
+    "SN": {
+        "EN": "SN",
+        "TH": "SN"
+    },
+    "DI": {
+        "EN": "DI",
+        "TH": "DI"
+    },
+    "GM": {
+        "EN": "GM",
+        "TH": "GM"
+    },
+    "FR": {
+        "EN": "FR",
+        "TH": "FR"
+    },
+    "Z2": {
+        "EN": "Z2",
+        "TH": "Z2"
+    },
+    "PH": {
+        "EN": "PH",
+        "TH": "PH"
+    },
+    "EF": {
+        "EN": "EF",
+        "TH": "EF"
+    },
+    "LO": {
+        "EN": "LO",
+        "TH": "LO"
+    },
+    "QU": {
+        "EN": "QU",
+        "TH": "QU"
+    },
+    "TI": {
+        "EN": "TI",
+        "TH": "TI"
+    },
+    "NP": {
+        "EN": "NP",
+        "TH": "NP"
+    },
+    "KN": {
+        "EN": "KN",
+        "TH": "KN"
+    },
+    "MA": {
+        "EN": "MA",
+        "TH": "MA"
+    },
+    "BU": {
+        "EN": "BU",
+        "TH": "BU"
+    },
+    "VE": {
+        "EN": "VE",
+        "TH": "VE"
+    },
+    "SH": {
+        "EN": "SH",
+        "TH": "SH"
+    },
+    "RS": {
+        "EN": "RS",
+        "TH": "RS"
+    },
+    "ED": {
+        "EN": "ED",
+        "TH": "ED"
+    },
+    "P2": {
+        "EN": "P2",
+        "TH": "P2"
+    },
+    "NI": {
+        "EN": "NI",
+        "TH": "NI"
+    },
+    "OL": {
+        "EN": "OL",
+        "TH": "OL"
+    }
+}

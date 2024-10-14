@@ -1,43 +1,71 @@
-# psychonauts-TH-translation
+<div align="center">
+<img src="https://static.wikia.nocookie.net/psychonauts/images/2/21/Tumblr_m5h0k8g0kQ1qjm1bzo1_500.png/revision/latest?cb=20120822013745"
+width="200" 
+height="150" />
+<h1>🧠 psychonauts-TH-translation 🧠</h1>
 
-It is a translation of the game Psychonauts into Thai. It will collect the Dialogues files that have been translated into Thai.
+<b>EN</b> |
+<a href="https://github.com/Onyx-Nostalgia/psychonauts-TH-translation/blob/master/docs/README-TH.md">TH</a>
+
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
+</div>
+
+----------------------------
+
+It is a translation of the game Psychonauts into **Thai**. It will collect the Dialogues files that have been translated into **Thai**.
 
 The extraction code and replacement code are originally from [TrupSteam/psychonauts-translator](https://github.com/TrupSteam/psychonauts-translator) and have been further developed to support python3.X.
 
+# 🧠 What have we here ?
+- Extract dialogues from game file (`.lub` file) to csv
+- [dialogues/](/dialogues) to store csv file of dialogues that are being translated or have been translated
+- [cutscenes/](/cutscenes) to store dialogue files according to cutscenes for easy translation
+  
+# 🧠 Dialogues csv file
+see sample in [dialogues/](/dialogues)
 
-# How to translate the game? 
+| id        | character | origin_dialogue      | translated_dialogue       |
+| --------- | --------- | -------------------- | ------------------------- |
+| CABD001RA | RA        | Dogen! Are you okay? | โดแกน! นายไม่เป็นอะไรใช่ไหม? |
 
-0. Install Python 2.7
-1. Get last *.LUB files from Psychonauts\WorkResource\Localization\English
-2. Run: python unpack_strings.py AS_StringTable.lub 
-3. AS_StringTable.csv should appear next to the AS_StringTable.lub
-4. Change the ASCII-text of AS_StringTable.csv in a text editor
-5. Keep in mind that csv strings are separated by the '\r\n', but inside one in-game string - '\n'
-6. Run: python replace_strings.py AS_StringTable.lub AS_StringTable.csv AS_StringTable_new.lub
-7. Replace original game file with the new one
-8. If your language contains not only Latin letters, you must replace Psychonauts\WorkResource\Fonts\*.dff
-9. Check the game, everything should work
+**id**: There will be 9 characters consisting of 3 UPPER Characters + 3 numbers + 2 UPPER Characters, where the last 2 characters are an abbreviation of the name of the character being spoken.
 
-# Fonts
+**character**: It is derived from the last two characters of `id` and is like an abbreviation of the character name or you can view it as a "character id". We will store the character abbreviation and the full name in a separate file named [character_name.json](/character_name.json).
 
-1. Check that you are using single-byte encoding in the hex-editor!
-2. See how these bytes are displayed with standard fonts:
+**origin_dialogue**: The original English dialogue, some of which may contain special characters such as `\n`.
 
+**translated_dialogue**: Column for adding Thai translations
+
+**Note:** File CSV use delimeter `;` and endline `\r\n`
+
+# 🧠 Pre-request
+- Install Python 3.X (recommend 3.10+)
+
+**Comming Soon !!** 
+- Workspace to Easy Development
+  - Docker
+  - Devcontainer
+
+# 🧠 Extract dialogue from game file
+The game will store dialogue files in a path like this `Psychonauts/WorkResource/Localization/English/**_StringTable.lub`
+Which can be extracted into a CSV file using the command
+
+## Extract each dialogue file
+Example: Need a CSV file of dialogue from `AS_StringTable.lub`
+```bash
+python unpack_strings.py --file AS_StringTable.lub
 ```
-30 31 32 33 34 35 36 37 38 39 3A 3B 3C 3D 3E 3F
-40 41 42 43 44 45 46 47 48 49 4A 4B 4C 4D 4E 4F
-50 51 52 53 54 55 56 57 58 59 5A 5B 5C 5D 5E 5F
-60 61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F
-70 71 72 73 74 75 76 77 78 79 7A 7B 7C 7D 7E 7F
-80 81 82 83 84 85 86 87 88 89 8A 8B 8C 8D 8E 8F
-90 91 92 93 94 95 96 97 98 99 9A 9B 9C 9D 9E 9F
-A0 A1 A2 A3 A4 A5 A6 A7 A8 A9 AA AB AC AD AE AF
-B0 B1 B2 B3 B4 B5 B6 B7 B8 B9 BA BB BC BD BE BF
-C0 C1 C2 C3 C4 C5 C6 C7 C8 C9 CA CB CC CD CE CF
-D0 D1 D2 D3 D4 D5 D6 D7 D8 D9 DA DB DC DD DE DF
-E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 EA EB EC ED EE EF
-F0 F1 F2 F3 F4 F5 F6 F7 F8 F9 FA FB FC FD FE FF
+You will get a file `dialogues/AS_StringTable.csv`
+
+## Extract all file in folder
+Example: Need a CSV file of all dialogues from `Psychonauts/WorkResource/Localization/English`
+```bash
+python unpack_strings.py --folder Psychonauts/WorkResource/Localization/English
 ```
+The file will be in `dialogues/`
 
-![psychonauts-char_full_eng](/char_full_eng.jpg)
-
+## Optional
+Sometimes if you want to change the destination folder where you want to save the csv from `dialogues/` to another folder, you can do it by adding the `--dest` flag, for example:
+```bash
+python unpack_strings.py --folder Psychonauts/WorkResource/Localization/English --dest new_dialogues/
+```
