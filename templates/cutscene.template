@@ -1,0 +1,19 @@
+<--start-template-->
+{dfs}
+{EN_Character}: {EN_Dialogue}
+{TH_Character}: {TH_Dialogue}
+
+<--end-template-->
+-------------------------------
+example
+INTR001CO: start: 0 end: 3400 
+Coach: ENG Bra Bra Bra  
+โค๊ช: ภาษาไทยจ๋า ๆ 
+
+INTR001CO: start: 0 end: 3400 
+Coach: ENG Bra Bra Bra  
+โค๊ช: ภาษาไทยจ๋า ๆ 
+
+INTR001CO: start: 0 end: 3400 
+Coach: ENG Bra Bra Bra  
+โค๊ช: ภาษาไทยจ๋า ๆ 

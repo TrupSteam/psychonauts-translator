@@ -1,0 +1,288 @@
+INTR001CO: start: 0 end: 3400
+Coach: The human mind.
+โค้ช: กำลังพยายามแปลอยู่
+
+INTR002CO: start: 3866 end: 14733
+Coach: Six hundred miles of synaptic fiber, five and a half ounces of cranial fluid, fifteen hundred grams of complex neural matter...
+โค้ช: 
+
+INTR003CO: start: 16000 end: 19200
+Coach: A three pound pile of dreams.
+โค้ช: 
+
+INTR004CO: start: 20000 end: 22266
+Coach: But I'll tell you what it really is.
+โค้ช: 
+
+INTR005CO: start: 22266 end: 27600
+Coach: It is the ultimate battlefield--and, the ultimate weapon.
+โค้ช: 
+
+INTR006CO: start: 28033 end: 39600
+Coach: The wars of this modern age--The Psychic Age--are all fought somewhere between these damp, curvaceous undulations.
+โค้ช: 
+
+INTR009CO: start: 39866 end: 44833
+Coach: From this day forward, you are all Psychic Soldiers.
+โค้ช: 
+
+INTR010CO: start: 45100 end: 47166
+Coach: Paranormal Paratroopers!
+โค้ช: 
+
+INTR011CO: start: 47433 end: 53433
+Coach: Mental Marines who are about to ship out on the adventure of their lives!
+โค้ช: 
+
+INTR012CO: start: 54100 end: 57400
+Coach: THIS IS OUR BEACHHEAD.
+โค้ช: 
+
+INTR013CO: start: 57866 end: 60966
+Coach: And this is your landing craft!
+โค้ช: 
+
+INTR014CO: start: 60966 end: 72866
+Coach: You shall engage the enemy in his own mentality! You shall chase his dreams, you shall fight his demons, you shall live his nightmares!
+โค้ช: 
+
+INTR015CO: start: 72866 end: 82100
+Coach: And those of you who fight well, you will find yourselves on the path to becoming international secret agents. In other words...
+โค้ช: 
+
+INTR016CO: start: 82100 end: 84033
+Coach: Psychonauts!
+โค้ช: 
+
+INTR017CO: start: 85233 end: 89200
+Coach: The rest of you... WILL DIE.
+โค้ช: 
+
+INTR018DO: start: 92900 end: 96500
+Dogen: Waaaaaaaa!
+โดแกน: 
+
+INTR019SA: start: 95500 end: 96966
+Sasha: Oh, Morry.
+ซาช่า: 
+
+INTR020MI: start: 96966 end: 99266
+Milla: Children, you are not going to die.
+มิลล่า: 
+
+INTR021CO: start: 99666 end: 103833
+Coach: Well, if you're not a Psychonaut, then you might as well be dead!
+โค้ช: 
+
+INTR022DO: start: 104266 end: 111500
+Dogen: They told me this was a Summer Camp!
+โดแกน: 
+
+INTR023LI: start: 109933 end: 120566
+Lili: Ah, Dogen. Don't worry about ol' Coach Oleander. I've been coming here for years, and trust me--nothing ever happens.
+ลิลี่: 
+
+INTR024BZ: start: 120266 end: 133033
+BZ: Yeah, Dogen. Lili's right. You don't got nothin' to worry about... 'cept for that giant monster in the lake I was telling you about.
+BZ: 
+
+INTR025CO: start: 133233 end: 138866
+Coach: Bobby Zilch! I told you to stop scaring people with that ridiculous, old legend!
+โค้ช: 
+
+INTR026CO: start: 139200 end: 147133
+Coach: I don't want the kids to be afraid to go out at night and walk alone on the perfectly safe paths of Whispering Rock Psychic Summer Camp.
+โค้ช: 
+
+INTR027CO: start: 147900 end: 154500
+Coach: And we don't want to scare our special guests, superstar Psychonauts Sasha Nein and Milla Vodello!
+โค้ช: 
+
+INTR029RA: start: 156033 end: 156666
+Raz: Whoa--
+แรซ: 
+
+INTR030DO: start: 158333 end: 159833
+Dogen: Lake monster!
+โดแกน: 
+
+INTR032SA: start: 162100 end: 162833
+Sasha: Formation!
+ซาช่า: 
+
+INTR033MI: start: 168833 end: 170500
+Milla: It's resisting.
+มิลล่า: 
+
+INTR077MI: start: 172900 end: 174200
+Milla: Quickly, bring it over here
+มิลล่า: 
+
+INTR034SA: start: 180100 end: 182400
+Sasha: What is it?
+ซาช่า: 
+
+INTR035MI: start: 182966 end: 187700
+Milla: It's just a little boy! What's your name, darling?
+มิลล่า: 
+
+INTR036CO: start: 187733 end: 189566
+Coach: I'll find out!
+โค้ช: 
+
+INTR037CO: start: 190333 end: 194700
+Coach: Can't... get... in... ach!
+โค้ช: 
+
+INTR038RA: start: 197800 end: 199000
+Raz: My name...
+แรซ: 
+
+INTR039CO: start: 199000 end: 200666
+Coach: ...starts with a "D"
+โค้ช: 
+
+INTR040RA: start: 200333 end: 201500
+Raz: ...is Razputin.
+แรซ: 
+
+INTR041CO: start: 201500 end: 203000
+Coach: Grr.
+โค้ช: 
+
+INTR042RA: start: 204466 end: 207700
+Raz: But everybody calls me Raz.
+แรซ: 
+
+INTR043DO: start: 208300 end: 211100
+Dogen: Please don't kill us, lake monster!
+โดแกน: 
+
+INTR044SA: start: 211700 end: 212800
+Sasha: Compelling.
+ซาช่า: 
+
+INTR045CO: start: 213100 end: 214833
+Coach: Armored like a tank!
+โค้ช: 
+
+INTR046RA: start: 214866 end: 219233
+Raz: Sorry I'm late. I don't want to disrupt your briefing, Agent Oleander.
+แรซ: 
+
+INTR047RA: start: 219233 end: 221000
+Raz: Agents Nein, Vodello.
+แรซ: 
+
+INTR048RA: start: 221000 end: 222866
+Raz: Please, continue.
+แรซ: 
+
+INTR049CO: start: 224200 end: 226366
+Coach: Where do you think you're going?
+โค้ช: 
+
+INTR050SA: start: 226366 end: 230866
+Sasha: You've broken into a highly-classified, remote government training facility.
+ซาช่า: 
+
+INTR051RA: start: 230866 end: 239033
+Raz: I know! Isn't it great? Listen, why don't I just sit over here quietly with my fellow PSI Cadets--
+แรซ: 
+
+INTR052RA: start: 239833 end: 242566
+Raz: Hey, how's it going? I like your hat!
+แรซ: 
+
+INTR053SA: start: 242566 end: 245666
+Sasha: We need to have this young man taken from here immediately.
+ซาช่า: 
+
+INTR054MI: start: 245800 end: 247166
+Milla: I'll call his parents.
+มิลล่า: 
+
+INTR055RA: start: 247300 end: 251133
+Raz: What? But... don't you train Psychonauts here?
+แรซ: 
+
+INTR056MI: start: 251166 end: 253033
+Milla: Yes, darling, but--
+มิลล่า: 
+
+INTR057RA: start: 252633 end: 255300
+Raz: To soar across the astral plane?
+แรซ: 
+
+INTR058RA: start: 255533 end: 259300
+Raz: To wage psychic warfare against the enemies of free thought?
+แรซ: 
+
+INTR059CO: start: 259300 end: 262366
+Coach: That is what I wrote on the front of the pamphlet...
+โค้ช: 
+
+INTR060RA: start: 262366 end: 269766
+Raz: Those words are why I'm here, Coach Oleander. Do you remember what you wrote on the inside of that pamphlet?
+แรซ: 
+
+INTR061RA: start: 269766 end: 306666
+Raz: "You were born with a special gift. But the people around you treat it like a curse. Your mother is afraid of you, and your father looks at you with shame in his eyes. Come to Whispering Rock Psychic Summer Camp, and you can show them all! Back home, your powers make you a loner, an outcast, a circus freak. But in this dojo, in this Psychic dojo, they make you a hero."
+แรซ: 
+
+INTR062CO: start: 309366 end: 311633
+Coach: Get that soldier a bunk!
+โค้ช: 
+
+INTR063MI: start: 316433 end: 327366
+Milla: Now, darling. You can stay here for a few days until your parents come for you. But we can't let you participate in any paranormal training without your parents' consent. I'm sorry.
+มิลล่า: 
+
+INTR064DO: start: 329866 end: 335066
+Dogen: Wowee. You're so lucky. You get to go home soon.
+โดแกน: 
+
+INTR065RA: start: 335066 end: 343933
+Raz: Home? Back there I was just like you were Dogen--punished by my own family for having powers I never asked for.
+แรซ: 
+
+INTR066RA: start: 346066 end: 352000
+Raz: But here, I have a chance to be something. To make a difference.
+แรซ: 
+
+INTR067RA: start: 352966 end: 360700
+Raz: They may come for me, Dogen, but they'll be looking for Raz, the boy. What they're going to find
+แรซ: 
+
+INTR068RA: start: 361633 end: 366666
+Raz: What they don't expect, is Raz, the Psychonaut.
+แรซ: 
+
+INTR069DO: start: 366666 end: 369833
+Dogen: And--and--and then you'll make their heads explode?
+โดแกน: 
+
+INTR070RA: start: 369833 end: 371966
+Raz: No! Do you do that?
+แรซ: 
+
+INTR072DO: start: 372800 end: 380166
+Dogen: No! Well, once kinda. But, now I wear this special hat. Wanna try it on?
+โดแกน: 
+
+INTR073RA: start: 380100 end: 380866
+Raz: No no no!
+แรซ: 
+
+INTR074SA: start: 381700 end: 390600
+Sasha: But he has mental defenses like I've never seen in someone so young. If I could just get him in my lab for some experiments, I'm sure he could withstand more than the others!
+ซาช่า: 
+
+INTR075CO: start: 390600 end: 396933
+Coach: That kid's one in a million, Nein. But I'm not going to let you turn him into one of your guinea pigs!
+โค้ช: 
+
+INTR076CO: start: 397900 end: 401033
+Coach: I've got big plans for that mind.
+โค้ช: 
+
