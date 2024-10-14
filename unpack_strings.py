@@ -2,13 +2,13 @@ import argparse
 import re
 import struct
 
-"""
- Convert *.LUB files (compiled lua4) to *.CSV (plain text) files
- 
- Based on "lua_src_4\src\luac\dump.c" & "lua_src_4\src\luac\lobject.h"
- 
- Example: python unpack_strings.py AS_StringTable.lub
-"""
+# """
+#  Convert *.LUB files (compiled lua4) to *.CSV (plain text) files
+
+#  Based on "lua_src_4\src\luac\dump.c" & "lua_src_4\src\luac\lobject.h"
+
+#  Example: python unpack_strings.py AS_StringTable.lub
+# """
 
 
 ##############################################################
@@ -22,7 +22,7 @@ def read_binary(path):
 
 def save_binary(path, data):
     with open(path, "wb") as f:
-        return f.write(data.encode('latin-1'))
+        return f.write(data.encode("latin-1"))
     return False
 
 
@@ -39,7 +39,7 @@ class FileReader:
         self.offset += size
 
     def read(self, size):
-        out = self.data[int(self.offset): int(self.offset + size)]
+        out = self.data[int(self.offset) : int(self.offset + size)]
         self.skip(size)
         return out
 
@@ -51,6 +51,7 @@ class FileReader:
 
     def read_sign(self):
         return struct.unpack("<4s", self.read(4))[0]
+
 
 ##############################################################
 
@@ -85,7 +86,7 @@ class LuaString:
 
     def __repr__(self):
         # skip zero
-        return self.str.rstrip(b"\x00").decode('latin-1')
+        return self.str.rstrip(b"\x00").decode("latin-1")
 
 
 class LocalOne:
@@ -156,7 +157,7 @@ class LuaFunction:
 ##############################################################
 
 
-class LUB_PARSER:
+class LUBParser:
 
     def __init__(self):
         self.str = []
@@ -165,10 +166,14 @@ class LUB_PARSER:
     def show_result(self):
         print("Parsed {} string(s)".format(len(self.str)))
 
-    def parse(self, path):
+    def parse(self, path, dest_folder=None):
+        print("unpacking {}...".format(path))
         bin = read_binary(path)
         reader = FileReader(bin)
         self.parse_data(reader)
+        if dest_folder:
+            filename = path.split("/")[-1]
+            path = os.path.join(dest_folder, filename)
         self.save_csv(path)
         self.show_result()
 
@@ -205,17 +210,28 @@ class LUB_PARSER:
             else:
                 if not self.is_lua_str_id(fstr):
                     # fstr.replace('\r', '') ?
-                    final_str = "{};{}".format(last_id, fstr)
+                    character = last_id[-2:]
+                    final_str = "{};{};{};{}".format(last_id, character, fstr, "")
                     self.str.append(final_str)
                     last_id = None
                 else:
                     last_id = fstr
-                    continue
 
     def save_csv(self, path):
-        str_data = "\r\n".join(self.str)
+        header = "id;character;origin_dialogue;translated_dialogue"
+        rows = [header] + self.str
+        str_data = "\r\n".join(rows)
         new_path = path[:-4] + ".csv"
         save_binary(new_path, str_data)
+
+
+import os
+
+
+def get_filenames(folder_path):
+    for filename in os.listdir(folder_path):
+        if filename.endswith(".lub"):
+            yield os.path.join(folder_path, filename)
 
 
 ##############################################################
@@ -225,8 +241,17 @@ if __name__ == "__main__":
     arg_parser = argparse.ArgumentParser(
         description="Convert *.LUB files (compiled lua4) to *.CSV (plain text) files"
     )
-    arg_parser.add_argument("lub_file_path")
+    arg_parser.add_argument("--file",dest="lub_file_path", required=False)
+    arg_parser.add_argument("--folder",dest="lub_folder_path", required=False)
+    arg_parser.add_argument("--dest",dest="dest_folder", required=False,default="dialogues")
     args = arg_parser.parse_args()
 
-    lub_parser = LUB_PARSER()
-    lub_parser.parse(args.lub_file_path)
+    if args.lub_folder_path:
+        file_paths = get_filenames(args.lub_folder_path)
+        for file_path in file_paths:
+            lub_parser = LUBParser()
+            lub_parser.parse(file_path, args.dest_folder)
+            
+    elif args.lub_file_path:
+        lub_parser = LUBParser()
+        lub_parser.parse(args.lub_file_path, args.dest_folder)
