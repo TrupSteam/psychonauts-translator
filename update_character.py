@@ -26,15 +26,15 @@ def get_all_character_ids(file_paths):
     return all_character_ids
 
 
-def update_character_json(character_ids,filename=CHARACTER_FILENAME):
+def update_character_json(character_ids, filename=CHARACTER_FILENAME):
     new_character_ids = []
     with open(filename, mode="r", encoding="utf-8") as jsonfile:
         character_obj = json.load(jsonfile)
         for character_id in character_ids:
             if character_id not in character_obj:
                 character_obj[character_id] = {
-                    "EN": "",
-                    "TH": "",
+                    "EN": character_id,
+                    "TH": character_id,
                 }
                 new_character_ids.append(character_id)
 
@@ -56,6 +56,14 @@ def update_character_name(csv_folder_name):
     file_paths = get_filenames(csv_folder_name)
     all_character_ids = get_all_character_ids(file_paths)
     update_character_json(all_character_ids)
+
+
+def get_character_names(ids=None):
+    with open(CHARACTER_FILENAME, mode="r", encoding="utf-8") as jsonfile:
+        character_obj = json.load(jsonfile)
+        if not ids:
+            return character_obj
+        return {id: character_obj[id] for id in ids}
 
 
 if __name__ == "__main__":
