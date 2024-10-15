@@ -1,288 +1,288 @@
 INTR001CO: start: 0 end: 3400
 Coach: The human mind.
-โค้ช: กำลังพยายามแปลอยู่
+โค้ช: จิตใจของมนุษย์.
 
 INTR002CO: start: 3866 end: 14733
 Coach: Six hundred miles of synaptic fiber, five and a half ounces of cranial fluid, fifteen hundred grams of complex neural matter...
-โค้ช: 
+โค้ช: มีเส้นประสาทยาวกว่าหกร้อยไมล์, ของเหลวในกระโหลกกว่า ห้ากับอีกครึ่งปอนด์, ระบบประสาทสุดซับซ้อนกว่าอีกพันห้าร้อยกรัม... 
 
 INTR003CO: start: 16000 end: 19200
 Coach: A three pound pile of dreams.
-โค้ช: 
+โค้ช: กองความฝันอีกสามปอนด์.
 
 INTR004CO: start: 20000 end: 22266
 Coach: But I'll tell you what it really is.
-โค้ช: 
+โค้ช: แต่ความจริงที่ฉันจะบอกก็คือ
 
 INTR005CO: start: 22266 end: 27600
 Coach: It is the ultimate battlefield--and, the ultimate weapon.
-โค้ช: 
+โค้ช: มันเป็นสุดยอดสนามรบ--และเป็นสุดยอดอาวุธ.
 
 INTR006CO: start: 28033 end: 39600
 Coach: The wars of this modern age--The Psychic Age--are all fought somewhere between these damp, curvaceous undulations.
-โค้ช: 
+โค้ช: สงครามในยุคใหม่นี้ --ยุคแห่งจิตใจ-- ล้วนเกิดขึ้นภายในรอยหยักชื้นแฉะแสนคดเคี้ยวนี้
 
 INTR009CO: start: 39866 end: 44833
 Coach: From this day forward, you are all Psychic Soldiers.
-โค้ช: 
+โค้ช: นับแต่นี้ไปพวกแกคือ ทหารพลังจิต.
 
 INTR010CO: start: 45100 end: 47166
 Coach: Paranormal Paratroopers!
-โค้ช: 
+โค้ช: พลร่มเหนือมนุษย์!
 
 INTR011CO: start: 47433 end: 53433
 Coach: Mental Marines who are about to ship out on the adventure of their lives!
-โค้ช: 
+โค้ช: นาวิกแห่งจิตใจ ออกเรือผจญภัยในชีวิต!
 
 INTR012CO: start: 54100 end: 57400
 Coach: THIS IS OUR BEACHHEAD.
-โค้ช: 
+โค้ช: นี่ คือ ชายฝั่ง ของเรา
 
 INTR013CO: start: 57866 end: 60966
 Coach: And this is your landing craft!
-โค้ช: 
+โค้ช: และนี่คือเรือจู่โจมของพวกนาย!
 
 INTR014CO: start: 60966 end: 72866
 Coach: You shall engage the enemy in his own mentality! You shall chase his dreams, you shall fight his demons, you shall live his nightmares!
-โค้ช: 
+โค้ช: นายจะต้องเผชิญหน้ากับศัตรูในจิตใจของมัน! ไล่ตามความฝันของมัน ใช้ชีวิตในฝันร้ายของมัน!
 
 INTR015CO: start: 72866 end: 82100
 Coach: And those of you who fight well, you will find yourselves on the path to becoming international secret agents. In other words...
-โค้ช: 
+โค้ช: และผู้ที่ทำได้ดี นายอาจได้ค้นพบตัวเองบนเส้นทางแห่งสายลับนานาชาติ หรือเรียกในอีกชื่อนึงว่า...
 
 INTR016CO: start: 82100 end: 84033
 Coach: Psychonauts!
-โค้ช: 
+โค้ช: ไซโคนอท!
 
 INTR017CO: start: 85233 end: 89200
 Coach: The rest of you... WILL DIE.
-โค้ช: 
+โค้ช: ส่วนพวกนายที่เหลือก็... ตาย!
 
 INTR018DO: start: 92900 end: 96500
 Dogen: Waaaaaaaa!
-โดแกน: 
+โดแกน: แงงงงงง!
 
 INTR019SA: start: 95500 end: 96966
 Sasha: Oh, Morry.
-ซาช่า: 
+ซาช่า: โถ่ มอร์รี.
 
 INTR020MI: start: 96966 end: 99266
 Milla: Children, you are not going to die.
-มิลล่า: 
+มิลล่า: เด็กน้อย หนูจะไม่ตายหรอกจ้ะ.
 
 INTR021CO: start: 99666 end: 103833
 Coach: Well, if you're not a Psychonaut, then you might as well be dead!
-โค้ช: 
+โค้ช: ก็ถ้านายไม่ได้เป็นไซโคนอท ก็เหมือนกับนายตายไปแล้ว!
 
 INTR022DO: start: 104266 end: 111500
 Dogen: They told me this was a Summer Camp!
-โดแกน: 
+โดแกน: พวกเขาบอกฉันว่านี่เป็นแค่ค่ายฤดูร้อน!
 
 INTR023LI: start: 109933 end: 120566
 Lili: Ah, Dogen. Don't worry about ol' Coach Oleander. I've been coming here for years, and trust me--nothing ever happens.
-ลิลี่: 
+ลิลี่: โดแกน อย่าไปกังวลเรื่องโค้ชโอลีแอนเดอร์พูดเลย. ฉันมาที่นี่หลายปีแล้ว เชื่อฉัน--มันไม่มีอะไรหรอก.
 
 INTR024BZ: start: 120266 end: 133033
-BZ: Yeah, Dogen. Lili's right. You don't got nothin' to worry about... 'cept for that giant monster in the lake I was telling you about.
-BZ: 
+Bobby: Yeah, Dogen. Lili's right. You don't got nothin' to worry about... 'cept for that giant monster in the lake I was telling you about.
+บ๊อบบี้: ช่าาย, โดแกน ลีลี่พูดถูก. นายไม่ต้องกังวลอะไรหรอก... ยกเว้นสัตว์ประหลาดยักษ์ในทะเลสาบที่ฉันบอก
 
 INTR025CO: start: 133233 end: 138866
 Coach: Bobby Zilch! I told you to stop scaring people with that ridiculous, old legend!
-โค้ช: 
+โค้ช: บ๊อบบี้ ซิลช์! ฉันบอกแล้วไงว่าหยุดทำให้คนกลัวด้วยตำนานไร้สาระนั่นได้แล้ว
 
 INTR026CO: start: 139200 end: 147133
 Coach: I don't want the kids to be afraid to go out at night and walk alone on the perfectly safe paths of Whispering Rock Psychic Summer Camp.
-โค้ช: 
+โค้ช: ฉันไม่อยากให้เด็ก ๆ ต้องกลัวที่จะออกไปข้างนอกในเวลากลางคืนและเดินคนเดียวบนเส้นทางที่ปลอดภัยสมบูรณ์แบบของค่ายฝึกพลังจิตฤดูร้อน Whispering Rock แห่งนี้
 
 INTR027CO: start: 147900 end: 154500
 Coach: And we don't want to scare our special guests, superstar Psychonauts Sasha Nein and Milla Vodello!
-โค้ช: 
+โค้ช: และเราก็ไม่ต้องการทำให้แขกพิเศษของเรากลัวเช่นกัน! ไซโคนอทซูเปอร์สตาร์ ซาช่า ไน และ มิลล่า โวเดลโล!
 
 INTR029RA: start: 156033 end: 156666
 Raz: Whoa--
-แรซ: 
+แรซ: โว้--
 
 INTR030DO: start: 158333 end: 159833
 Dogen: Lake monster!
-โดแกน: 
+โดแกน: สัตว์ประหลาดทะเลสาบ!
 
 INTR032SA: start: 162100 end: 162833
 Sasha: Formation!
-ซาช่า: 
+ซาช่า: ประจำที่!
 
 INTR033MI: start: 168833 end: 170500
 Milla: It's resisting.
-มิลล่า: 
+มิลล่า: มันกำลังขัดขืน.
 
 INTR077MI: start: 172900 end: 174200
 Milla: Quickly, bring it over here
-มิลล่า: 
+มิลล่า: เร็วเข้า พามันมานี่
 
 INTR034SA: start: 180100 end: 182400
 Sasha: What is it?
-ซาช่า: 
+ซาช่า: นี่มันอะไรกัน?
 
 INTR035MI: start: 182966 end: 187700
 Milla: It's just a little boy! What's your name, darling?
-มิลล่า: 
+มิลล่า: ก็แค่เด็กน้อยนี่นา! หนูชื่ออะไรจ๊ะ ที่รัก?
 
 INTR036CO: start: 187733 end: 189566
 Coach: I'll find out!
-โค้ช: 
+โค้ช: ฉันจะสืบเอง!
 
 INTR037CO: start: 190333 end: 194700
 Coach: Can't... get... in... ach!
-โค้ช: 
+โค้ช: เจาะ... เข้า... ไป... ไม่ได้!
 
 INTR038RA: start: 197800 end: 199000
 Raz: My name...
-แรซ: 
+แรซ: ฉันมีชื่อ...
 
 INTR039CO: start: 199000 end: 200666
 Coach: ...starts with a "D"
-โค้ช: 
+โค้ช: ... เริ่มด้วยตัว "ด"
 
 INTR040RA: start: 200333 end: 201500
 Raz: ...is Razputin.
-แรซ: 
+แรซ: ...ว่า แรซปูติน.
 
 INTR041CO: start: 201500 end: 203000
 Coach: Grr.
-โค้ช: 
+โค้ช: Grr.
 
 INTR042RA: start: 204466 end: 207700
 Raz: But everybody calls me Raz.
-แรซ: 
+แรซ: แต่คนเรียกฉันว่า แรซ.
 
 INTR043DO: start: 208300 end: 211100
 Dogen: Please don't kill us, lake monster!
-โดแกน: 
+โดแกน: ได้โปรดอย่าฆ่าเราเลย, สัตว์ประหลาดทะเลสาบ! 
 
 INTR044SA: start: 211700 end: 212800
 Sasha: Compelling.
-ซาช่า: 
+ซาช่า: น่าสนใจ.
 
 INTR045CO: start: 213100 end: 214833
 Coach: Armored like a tank!
-โค้ช: 
+โค้ช: หนาอย่างกับรถถัง!
 
 INTR046RA: start: 214866 end: 219233
 Raz: Sorry I'm late. I don't want to disrupt your briefing, Agent Oleander.
-แรซ: 
+แรซ: โทษทีผมมาสาย. ผมไม่อยากขัดการสอนของพวกคุณเลย สายลับโอลีแอนเดอร์.
 
 INTR047RA: start: 219233 end: 221000
 Raz: Agents Nein, Vodello.
-แรซ: 
+แรซ: สายลับไนและโวเดลโล.
 
 INTR048RA: start: 221000 end: 222866
 Raz: Please, continue.
-แรซ: 
+แรซ: เชิญต่อได้เลยครับ.
 
 INTR049CO: start: 224200 end: 226366
 Coach: Where do you think you're going?
-โค้ช: 
+โค้ช: นายคิดว่านายจะไปไหนน่ะ?
 
 INTR050SA: start: 226366 end: 230866
 Sasha: You've broken into a highly-classified, remote government training facility.
-ซาช่า: 
+ซาช่า: เธอได้บุกรุกเข้ามายังฐานฝึกอบรมลับทางไกลของรัฐบาลนะ
 
 INTR051RA: start: 230866 end: 239033
 Raz: I know! Isn't it great? Listen, why don't I just sit over here quietly with my fellow PSI Cadets--
-แรซ: 
+แรซ: ผมรู้ครับ! เจ๋งไปเลยใช่ไหม? คืองี้นะ ทำไมไม่ให้ผมนั่งเงียบ ๆ อยู่นี่ร่วมกับเพื่อนนักเรียน PSI-- 
 
 INTR052RA: start: 239833 end: 242566
 Raz: Hey, how's it going? I like your hat!
-แรซ: 
+แรซ: เฮ้ ว่าไงเพื่อน ฉันชอบหมวกนายนะ!
 
 INTR053SA: start: 242566 end: 245666
 Sasha: We need to have this young man taken from here immediately.
-ซาช่า: 
+ซาช่า: เราต้องนำหนุ่มน้อยคนนี้ออกไปจากที่นี่เดี๋ยวนี้.
 
 INTR054MI: start: 245800 end: 247166
 Milla: I'll call his parents.
-มิลล่า: 
+มิลล่า: ฉันจะโทรเรียกผู้ปกครองเขา.
 
 INTR055RA: start: 247300 end: 251133
 Raz: What? But... don't you train Psychonauts here?
-แรซ: 
+แรซ: ไงนะ? แต่...คุณไม่ได้ฝึกเหล่าไซโคนอทกันที่นี่เหรอ?
 
 INTR056MI: start: 251166 end: 253033
 Milla: Yes, darling, but--
-มิลล่า: 
+มิลล่า: ใช่จ้ะ ที่รัก แต่--
 
 INTR057RA: start: 252633 end: 255300
 Raz: To soar across the astral plane?
-แรซ: 
+แรซ: ทะยานไปสู่พิภพแห่งจิตใจ?
 
 INTR058RA: start: 255533 end: 259300
 Raz: To wage psychic warfare against the enemies of free thought?
-แรซ: 
+แรซ: เพื่อทำสงครามพลังจิตกับศัตรูแห่งความคิดเสรี?
 
 INTR059CO: start: 259300 end: 262366
 Coach: That is what I wrote on the front of the pamphlet...
-โค้ช: 
+โค้ช: นั่น คือสิ่งที่ฉันเขียนไว้บนแผ่นพับ...
 
 INTR060RA: start: 262366 end: 269766
 Raz: Those words are why I'm here, Coach Oleander. Do you remember what you wrote on the inside of that pamphlet?
-แรซ: 
+แรซ: คำพูดนั่นคือเหตุผลที่ผมมาที่นี่ โค้ชโอลีแอนเดอร์ คุณจำได้ไหมว่าคุณเขียนอะไรไว้ข้างในแผ่นพับนั่น?
 
 INTR061RA: start: 269766 end: 306666
 Raz: "You were born with a special gift. But the people around you treat it like a curse. Your mother is afraid of you, and your father looks at you with shame in his eyes. Come to Whispering Rock Psychic Summer Camp, and you can show them all! Back home, your powers make you a loner, an outcast, a circus freak. But in this dojo, in this Psychic dojo, they make you a hero."
-แรซ: 
+แรซ: "คุณเกิดมาพร้อมพลังพิเศษ แต่คนรอบข้างกลับมองว่ามันเป็นคำสาป แม่ของคุณหวาดกลัว พ่อของคุณจ้องมองด้วยความละอายใจ มาที่ค่ายฝึกพลังจิต Whispering Rock สิ แล้วพิสูจน์ให้พวกเขาทั้งหมดได้เห็น! ที่บ้าน คุณเป็นเพียงคนโดดเดี่ยว นอกคอก ตัวประหลาด แต่ที่โดโจแห่งนี้ ที่โดโจพลังจิตแห่งนี้ พวกเขาจะทำให้คุณเป็น วีรบุรุษ"
 
 INTR062CO: start: 309366 end: 311633
 Coach: Get that soldier a bunk!
-โค้ช: 
+โค้ช: เตรียมที่นอนให้พลทหารนั่นซะ!
 
 INTR063MI: start: 316433 end: 327366
 Milla: Now, darling. You can stay here for a few days until your parents come for you. But we can't let you participate in any paranormal training without your parents' consent. I'm sorry.
-มิลล่า: 
+มิลล่า: เอาล่ะ ที่รัก หนูพักอยู่ที่นี่ได้สองสามวันจนกว่าพ่อแม่จะมารับนะ แต่เราไม่สามารถให้หนูเข้าร่วมการฝึกพลังจิตใด ๆ ได้ หากไม่ได้ความยินยอมจากพ่อแม่ ขอโทษด้วยนะจ๊ะ 
 
 INTR064DO: start: 329866 end: 335066
 Dogen: Wowee. You're so lucky. You get to go home soon.
-โดแกน: 
+โดแกน: ว้าว. นายโชคดีจัง นายจะได้กลับบ้านแล้ว.
 
 INTR065RA: start: 335066 end: 343933
 Raz: Home? Back there I was just like you were Dogen--punished by my own family for having powers I never asked for.
-แรซ: 
+แรซ: บ้านเหรอ? กลับไปที่นั่นฉันก็เหมือนกับนาย โดแกน ถูกลงโทษจากครอบครัวเพราะมีพลังที่ฉันก็ไม่เคยขอ.
 
 INTR066RA: start: 346066 end: 352000
 Raz: But here, I have a chance to be something. To make a difference.
-แรซ: 
+แรซ: แต่ที่นี่ ฉันมีโอกาสที่จะเป็นอะไรบางอย่างที่ต่างออกไป
 
 INTR067RA: start: 352966 end: 360700
 Raz: They may come for me, Dogen, but they'll be looking for Raz, the boy. What they're going to find
-แรซ: 
+แรซ: พวกเขาอาจตามหาฉัน โดแกน ตามหา "แรซ" เด็กคนนึง. แต่สิ่งที่พวกเขาจะได้พบ
 
 INTR068RA: start: 361633 end: 366666
 Raz: What they don't expect, is Raz, the Psychonaut.
-แรซ: 
+แรซ: สิ่งที่พวกเขาไม่คาดคิด คือ "แรซแห่งไซโคนอท".  
 
 INTR069DO: start: 366666 end: 369833
 Dogen: And--and--and then you'll make their heads explode?
-โดแกน: 
+โดแกน: และ--แล้ว--แล้วนายก็จะระเบิดหัวพวกเขา?
 
 INTR070RA: start: 369833 end: 371966
 Raz: No! Do you do that?
-แรซ: 
+แรซ: ไม่! นายทำงั้นเหรอ?
 
 INTR072DO: start: 372800 end: 380166
 Dogen: No! Well, once kinda. But, now I wear this special hat. Wanna try it on?
-โดแกน: 
+โดแกน: ไม่! เอ่อ ครั้งนึงอ่ะ. แต่ตอนนี้ฉันใส่หมวกพิเศษนี่ไง อยากลองใส่ดูมั้ย?
 
 INTR073RA: start: 380100 end: 380866
 Raz: No no no!
-แรซ: 
+แรซ: ไม่ๆ ไม่เอา!
 
 INTR074SA: start: 381700 end: 390600
 Sasha: But he has mental defenses like I've never seen in someone so young. If I could just get him in my lab for some experiments, I'm sure he could withstand more than the others!
-ซาช่า: 
+ซาช่า: แต่เขามีการป้องกันทางจิตที่ฉันไม่เคยเห็นในเด็กอายุเท่านี้มาก่อน ถ้าฉันพาเขาไปที่ห้องทดลองของฉันได้ เพื่อการทดลอง ฉันมั่นใจว่าเขาจะทนได้มากกว่าเด็กคนอื่น ๆ แน่นอน!
 
 INTR075CO: start: 390600 end: 396933
 Coach: That kid's one in a million, Nein. But I'm not going to let you turn him into one of your guinea pigs!
-โค้ช: 
+โค้ช: เด็กนั่นเป็นหนึ่งในล้านเลยล่ะ ไน แต่ฉันจะไม่ยอมให้นายเปลี่ยนเขาไปเป็นหนูทดลองของนายหรอกนะ!
 
 INTR076CO: start: 397900 end: 401033
 Coach: I've got big plans for that mind.
-โค้ช: 
+โค้ช: ฉันมีแผนการใหญ่สำหรับเด็กนั่นแล้ว.
 
