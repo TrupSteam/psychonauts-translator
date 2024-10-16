@@ -1,0 +1,48 @@
+ASSP001RA: start: 9666 end: 10466
+Raz: Ahhh!
+แรซ: 
+
+ASSP002RA: start: 11500 end: 15533
+Raz: Super... sneezing... powder.
+แรซ: 
+
+ASSP003RA: start: 15533 end: 19700
+Raz: Ahh! Try... not... to... sneeze!
+แรซ: 
+
+ASSP004RA: start: 19833 end: 23266
+Raz: Have... to... hold it... in
+แรซ: 
+
+ASSP005RA: start: 23266 end: 24800
+Raz: Ah ah--
+แรซ: 
+
+ASSP006RA: start: 24800 end: 25900
+Raz: ACHOO!
+แรซ: 
+
+ASSP007RA: start: 32766 end: 34000
+Raz: TV?
+แรซ: 
+
+ASSP008RA: start: 35266 end: 36533
+Raz: 
+แรซ: 
+
+ASSP009RA: start: 40400 end: 42000
+Raz: Oh, this is just great.
+แรซ: 
+
+ASSP010RA: start: 42400 end: 44000
+Raz: Now what am I going to do?
+แรซ: 
+
+ASSP011RA: start: 44766 end: 46233
+Raz: Have to think!
+แรซ: 
+
+ASSP012RA: start: 46666 end: 49000
+Raz: Ha. Like I got a choice...
+แรซ: 
+

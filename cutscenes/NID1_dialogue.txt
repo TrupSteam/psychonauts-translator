@@ -1,0 +1,40 @@
+NID2001LO: start: 1200 end: 15333
+LO: Little boy, I am sorry to say that you have a very serious mental problem. The trouble originates in this area here, the area that we in the medical profession like to refer to as
+LO: 
+
+NID2002LO: start: 15333 end: 19033
+LO: the brain. You see, son, it's just no good!
+LO: 
+
+NID2003LO: start: 19266 end: 26100
+LO: I hate to be so blunt, but YOU have the insanity... of a manatee!
+LO: 
+
+NID2004DO: start: 26100 end: 31300
+Dogen: I know! People are always saying that! What do you think's wrong with my brain, Doctor?
+โดแกน: 
+
+NID2005LO: start: 31300 end: 40066
+LO: How should I know? I'm a dentist! But here's what I do know: How should I know? I'm a dentist! But here's what I do know: How should I know? I'm a dentist! But here's what I do know: if a tooth is bad, you pull it!
+LO: 
+
+NID2006DO: start: 40066 end: 41900
+Dogen: But my teeth are fine!
+โดแกน: 
+
+NID2007LO: start: 41900 end: 50933
+LO: Yup! That brain's got to come out, boy. It's the quickest way to cure what you've got: Yup! That brain's got to come out, boy. It's the quickest way to cure what you've got: Yup! That brain's got to come out, boy. It's the quickest way to cure what you've got: INSANITY OF THE MIND!
+LO: 
+
+NID2008DO: start: 50933 end: 52033
+Dogen: But, I don't wanna--
+โดแกน: 
+
+NID2009LO: start: 51566 end: 58433
+LO: Shush-shush-shush-shush-shushie! Now hold still. This will only hurt until your brains come flying out!
+LO: 
+
+NID2010DO: start: 58900 end: 61733
+Dogen: Ahh! Ahh! Get back! HELP!
+โดแกน: 
+

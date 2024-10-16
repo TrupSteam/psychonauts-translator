@@ -1,0 +1,48 @@
+CALP001RA: start: 2333 end: 3166
+Raz: Hey, Lili.
+แรซ: 
+
+CALP002LI: start: 3766 end: 6900
+Lili: Going for the advanced training? What's the rush?
+ลิลี่: 
+
+CALP003RA: start: 6900 end: 11333
+Raz: Are you kidding? I only have a few days to become a Psychonaut or I lose my shot forever!
+แรซ: 
+
+CALP004LI: start: 11633 end: 17533
+Lili: Look, Raz, I hate to burst your bubble, but the Psychonauts are not what they used to be.
+ลิลี่: 
+
+CALP005LI: start: 17700 end: 21900
+Lili: Times have changed. The world just doesn't need us anymore.
+ลิลี่: 
+
+CALP006RA: start: 21900 end: 23800
+Raz: The world does too need Psychonauts!
+แรซ: 
+
+CALP007RA: start: 24100 end: 30200
+Raz: Right here at this very camp, in fact. I think there are several fishy things that need psychic investigating.
+แรซ: 
+
+CALP008LI: start: 30200 end: 32000
+Lili: You are so immature!
+ลิลี่: 
+
+CALP009LI: start: 32166 end: 37166
+Lili: And cute! When are you gonna just shut up and kiss me?
+ลิลี่: 
+
+CALP010RA: start: 37333 end: 38566
+Raz: Shut up and do what?
+แรซ: 
+
+CALP011LI: start: 38566 end: 42766
+Lili: Oh. I didn't know you could--uh, I gotta go. Bye.
+ลิลี่: 
+
+CALP012LI: start: 42766 end: 45500
+Lili: So embarrassing!
+ลิลี่: 
+

@@ -1,0 +1,64 @@
+MCBI001OL: start: 1700 end: 2233
+OL: Help!
+OL: 
+
+mcbi002ol: start: 3333 end: 3933
+OL: 
+OL: 
+
+mcbi003ol: start: 4566 end: 6900
+OL: You gotta help me protect the bunnies!
+OL: 
+
+mcbi004ra: start: 7100 end: 8766
+Raz: Hey, hey. Little Oly!
+แรซ: 
+
+mcbi005ra: start: 8900 end: 11233
+Raz: It's okay, those monsters are gone now.
+แรซ: 
+
+mcbi006ra: start: 11433 end: 14266
+Raz: The bunnies are safe. We're all safe!
+แรซ: 
+
+mcbi007ol: start: 14366 end: 16800
+OL: No, it's not safe!
+OL: 
+
+mcbi008ol: start: 16833 end: 18466
+OL: He's coming!
+OL: 
+
+mcbi009ra: start: 18600 end: 19366
+Raz: Who's coming?
+แรซ: 
+
+mcbi010ol: start: 20000 end: 21966
+OL: My dad!
+OL: 
+
+mcbi011ra: start: 21966 end: 24600
+Raz: Your dad... the butcher?
+แรซ: 
+
+mcbi012ol: start: 24766 end: 27533
+OL: He says little bunnies are good for nothing.
+OL: 
+
+mcbi013ol: start: 27833 end: 29366
+OL: Nothing but food!
+OL: 
+
+mcbi014bu: start: 30266 end: 32866
+BU: 
+BU: 
+
+mcbi015ol: start: 32700 end: 35133
+OL: Ahhhhhhhhhhhh!
+OL: 
+
+mcbi016bu: start: 35333 end: 38833
+BU: DON'T RUN OR ELSE DADDY'S GONNA KILL YA!!!
+BU: 
+

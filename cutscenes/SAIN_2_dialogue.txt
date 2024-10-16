@@ -1,0 +1,24 @@
+SAIN017SA: start: 933 end: 3266
+Sasha: Excellent. A victory for good taste.
+ซาช่า: 
+
+SAIN018SA: start: 3433 end: 9866
+Sasha: Now, you must strive for precision when targeting. Say you were set upon by multiple attackers.
+ซาช่า: 
+
+SAIN019SA: start: 10833 end: 11333
+Sasha: Eh.
+ซาช่า: 
+
+SAIN020SA: start: 11600 end: 12300
+Sasha: Yecch.
+ซาช่า: 
+
+SAIN021SA: start: 12533 end: 13233
+Sasha: Bleh.
+ซาช่า: 
+
+SAIN022SA: start: 13600 end: 21433
+Sasha: But you need to dispense with them in a certain order. Eliminate these monsters in the proper sequence and we can move on to the next lesson.
+ซาช่า: 
+

@@ -1,0 +1,60 @@
+MMDD001DM: start: 500 end: 2866
+DM: What have you done?
+DM: 
+
+MMDD002DM: start: 3133 end: 4766
+DM: He wakes!
+DM: 
+
+MMDD003BO: start: 11400 end: 14000
+Boyd: I am the Milkman. My milk is delicious.
+บอยด์: 
+
+MMDD004DM: start: 15833 end: 25033
+DM: And the sea shall run white (cough cough) with his rage
+DM: 
+
+MMDD005RS: start: 31666 end: 37400
+RS: Ooooh ohhhh.
+RS: 
+
+MMDD005RQ: start: 32966 end: 37166
+RQ: Ooooh ohhhh.
+RQ: 
+
+MMDD006BO: start: 38533 end: 40833
+Boyd: 
+บอยด์: 
+
+MMDD007BO: start: 41133 end: 42666
+Boyd: Special delivery today.
+บอยด์: 
+
+MMDD008BO: start: 42933 end: 44000
+Boyd: GRAAAAAA!
+บอยด์: 
+
+MMDD009BO: start: 62466 end: 64666
+Boyd: 
+บอยด์: 
+
+MMDD010RA: start: 66300 end: 68000
+Raz: Boyd? Are you okay?
+แรซ: 
+
+MMDD011BO: start: 68100 end: 70266
+Boyd: Time for the final delivery to this address.
+บอยด์: 
+
+MMDD012RA: start: 71266 end: 75766
+Raz: Hey, is that milk regular kind, or the exploding dream kind?
+แรซ: 
+
+MMDD013BO: start: 75766 end: 79166
+Boyd: It's fortified with what the world wants, what the world deserves.
+บอยด์: 
+
+MMDD014RA: start: 80533 end: 83633
+Raz: Are you sure don't want to just talk about this, Boyd?
+แรซ: 
+

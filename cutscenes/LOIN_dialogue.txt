@@ -1,0 +1,32 @@
+LOIN001LP: start: 23933 end: 25966
+LP: Ah, top of the mornin' to ya, ma'am.
+LP: 
+
+LOIN002LY: start: 26033 end: 30066
+LY: And good day to you, Officer O'Lungfish. How are you today?
+LY: 
+
+LOIN003LP: start: 30000 end: 35733
+LP: Oh, damp and happy. Can't complain! And what are you and the wee one up to on this lovely day?
+LP: 
+
+LOIN004LY: start: 35800 end: 40733
+LY: Oh, just obeying the law as always. All posted directives followed to the letter.
+LY: 
+
+LOIN005LP: start: 40666 end: 44500
+LP: Ah, good to hear! Not a one of us want any trouble that's for sure!
+LP: 
+
+LOIN006LY: start: 44100 end: 45700
+LY: Aaaaahhhhh!!!!
+LY: 
+
+LOIN007LP: start: 47333 end: 48033
+LP: Aaaaaahhhh!!!!
+LP: 
+
+LOIN008LR: start: 48266 end: 50633
+LR: Oh, Goggalor!!!!
+LR: 
+

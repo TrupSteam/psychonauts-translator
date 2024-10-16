@@ -1,0 +1,160 @@
+FINI000CO: start: 500 end: 3066
+Coach: And so, that brings us to the end.
+โค้ช: 
+
+fini001co: start: 3666 end: 12800
+Coach: Where, as you can clearly see, the personal demons causing my negative behavior have all been eradicated, leaving me sane once again.
+โค้ช: 
+
+fini002co: start: 13133 end: 18533
+Coach: This is also corroborated in CAT scan number three, on page fifty-nine of your handouts.
+โค้ช: 
+
+fini003co: start: 18733 end: 27833
+Coach: On a personal note, I would just like to reiterate how extremely, extremely sorry I am for stealing all of your brains, and trying to take over the world.
+โค้ช: 
+
+fini004co: start: 28366 end: 29766
+Coach: Mistakes have been made.
+โค้ช: 
+
+fini005co: start: 30433 end: 36433
+Coach: But this camp is all about education, and I know I, for one, learned plenty.
+โค้ช: 
+
+fini006co: start: 36566 end: 41366
+Coach: Thanks to that guy right there. Come on up here, Raz!
+โค้ช: 
+
+fini007fo: start: 44966 end: 52933
+FO: We endeavor to build strong minds here, with the power to lift things, to see things, to burn things.
+FO: 
+
+fini008fo: start: 52933 end: 60933
+FO: But it's a special quality of your heart, not your mind, that truly makes a great Psychonaut.
+FO: 
+
+fini009fo: start: 60933 end: 62700
+FO: This young man has it.
+FO: 
+
+fini010fo: start: 62933 end: 64666
+FO: We did not give it to him. 
+FO: 
+
+fini011fo: start: 64833 end: 69666
+FO: He got it from someone else, long before he came here.
+FO: 
+
+fini012fo: start: 70633 end: 78433
+FO: But we CAN give him this, to honor his mind, his courage, and his heart.
+FO: 
+
+fini013fo: start: 78666 end: 87966
+FO: Son, we do not normally ask this of someone so young, but it is obvious to us all that you are not average.
+FO: 
+
+fini014fo: start: 88033 end: 90500
+FO: Will you join us, Razputin?
+FO: 
+
+fini015fo: start: 90933 end: 94366
+FO: Will you be... a Psychonaut?
+FO: 
+
+FINI016LI: start: 125333 end: 132533
+Lili: Okay, let's be perfectly clear about this. That was the best summer of my whole entire life.
+ลิลี่: 
+
+fini017ra: start: 132666 end: 136266
+Raz: Hey, the summer's not over yet! We can hang out for a couple of weeks still.
+แรซ: 
+
+fini018li: start: 136566 end: 139966
+Lili: My family's out on the East Coast. Where's yours?
+ลิลี่: 
+
+fini019ra: start: 139966 end: 141933
+Raz: They move around a lot.
+แรซ: 
+
+fini020li: start: 142566 end: 143500
+Lili: Hm...
+ลิลี่: 
+
+fini021li: start: 144000 end: 148300
+Lili: Well, you'd better go. Your dad's waiting for you.
+ลิลี่: 
+
+fini022ra: start: 151900 end: 153466
+Raz: Um, well--
+แรซ: 
+
+fini023li: start: 153833 end: 154466
+Lili: Bye.
+ลิลี่: 
+
+fini024sa: start: 167933 end: 171066
+Sasha: Children, it's an emergency. There's been another kidnapping!
+ซาช่า: 
+
+fini025co: start: 170933 end: 173333
+Coach: I was here the whole time. You saw me.
+โค้ช: 
+
+fini026sa: start: 173800 end: 177033
+Sasha: No, this time we know who it is, and that's what scares us.
+ซาช่า: 
+
+fini027ra: start: 177033 end: 178033
+Raz: Who was kidnapped?
+แรซ: 
+
+fini028mi: start: 178633 end: 182166
+Milla: Truman Zanotto, the Grand Head of the Psychonauts.
+มิลล่า: 
+
+fini029li: start: 182466 end: 183300
+Lili: Dad?
+ลิลี่: 
+
+fini030sa: start: 183533 end: 186700
+Sasha: Sir, can you teleport this many of us back to headquarters?
+ซาช่า: 
+
+fini031fo: start: 186533 end: 191966
+FO: Hey, what are you people doing in my kitchen? Now git!
+FO: 
+
+fini032co: start: 192200 end: 193566
+Coach: Guess we're taking the jet.
+โค้ช: 
+
+fini033mi: start: 203266 end: 206633
+Milla: Don't worry about your dad, darling. We'll get him back.
+มิลล่า: 
+
+fini034sa: start: 206566 end: 209733
+Sasha: Yes, after all, we'll have Razputin helping us.
+ซาช่า: 
+
+fini035ra: start: 210166 end: 210900
+Raz: I'm going?
+แรซ: 
+
+fini036sa: start: 211766 end: 215433
+Sasha: Now how could we do this without our anti-kidnapping specialist?
+ซาช่า: 
+
+fini039gd: start: 222533 end: 224900
+GD: I've taught you everything I can, Son. 
+GD: 
+
+fini040gd: start: 225000 end: 229433
+GD: Now you go show them. Show them all.
+GD: 
+
+fini042ra: start: 232933 end: 233566
+Raz: Let's go.
+แรซ: 
+

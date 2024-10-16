@@ -1,0 +1,80 @@
+ASLV001LI: start: 0 end: 1600
+Lili: Rrrr.
+ลิลี่: 
+
+ASLV002RA: start: 1400 end: 2033
+Raz: Lili!
+แรซ: 
+
+ASLV003LI: start: 1866 end: 3333
+Lili: Grrrr!
+ลิลี่: 
+
+ASLV004LI: start: 3200 end: 4066
+Lili: (Gasp!)
+ลิลี่: 
+
+ASLV005LO: start: 4366 end: 7100
+LO: Well, I've reviewed your chart, little girl.
+LO: 
+
+ASLV006LO: start: 7100 end: 11633
+LO: And the bad news is, we're gonna have to remove your brain
+LO: 
+
+ASLV007LO: start: 12033 end: 21666
+LO: ...strap it into an armored battle tank and make it shoot down innocent civilians with its concentrated psychic death beam!
+LO: 
+
+ASLV008LI: start: 21166 end: 23733
+Lili: I'm gonna kill you so much.
+ลิลี่: 
+
+ASLV009LO: start: 24000 end: 28766
+LO: The good news is that your insurance is going to cover the whole thing, so--
+LO: 
+
+ASLV010LO: start: 28766 end: 31233
+LO: Heyyy, is it getting warm in here?
+LO: 
+
+ASLV011LI: start: 31233 end: 36500
+Lili: No, I'm just trying to set you on fire through this stupid hat!
+ลิลี่: 
+
+ASLV012LO: start: 36500 end: 41633
+LO: What a delightfully mean little brain you have. Just what we want!
+LO: 
+
+ASLV013LO: start: 41900 end: 50733
+LO: Here, do me a favor. Tell me if you think this smells like... your DOOM! Heh heh.
+LO: 
+
+ASLV014LI: start: 50466 end: 54500
+Lili: (Snotty breathing.)
+ลิลี่: 
+
+ASLV015LI: start: 54766 end: 59300
+Lili: (Sniff sniff.) I can't smell anything.
+ลิลี่: 
+
+ASLV016LO: start: 59200 end: 60000
+LO: Curses!
+LO: 
+
+ASLV017LI: start: 60100 end: 61100
+Lili: Heh heh.
+ลิลี่: 
+
+ASLV018LO: start: 60833 end: 64166
+LO: You're a stubborn little ball of phlegm, ain't ya?
+LO: 
+
+ASLV019LO: start: 64333 end: 73133
+LO: Well, that head cold won't protect you forever, little girl, and when it's gone you'll be sneezing a different tune!
+LO: 
+
+ASLV020LO: start: 73300 end: 78266
+LO: A tune in the key of... BRAINS! Ha ha ha!
+LO: 
+

@@ -1,0 +1,24 @@
+ASCD024CR: start: 0 end: 3666
+CR: Taking her up yourself this time, eh Doctor? Less work for me!
+CR: 
+
+ASCD025FR: start: 4800 end: 6400
+FR: Inmate Whytehead.
+FR: 
+
+ASCD026CR: start: 5100 end: 10400
+CR: Gahh! Chief Orderly Bonaparte! You're... You're
+CR: 
+
+ASCD027FR: start: 10333 end: 11233
+FR: Armed?
+FR: 
+
+ASCD028CR: start: 11066 end: 11766
+CR: Woo hoo ha ha hahaha!
+CR: 
+
+ASCD028CR: start: 11766 end: 14233
+CR: Woo hoo ha ha hahaha!
+CR: 
+

@@ -1,0 +1,44 @@
+ASAH000LF: start: 3000 end: 7633
+LF: What's going on! What's that sound?
+LF: 
+
+ASAH001SH: start: 7566 end: 13933
+SH: Oh the insane asylum just blew up. But don't worry. Mr. Pokeylope helped me save all the brains before it fell down.
+SH: 
+
+ASAH002LF: start: 14700 end: 17166
+LF: Mr. Pokeylope?
+LF: 
+
+ASAH003LF: start: 17800 end: 26233
+LF: Sam? Is that you? It's me, Linda. From the lake?
+LF: 
+
+ASAH004PL: start: 26500 end: 32866
+PL: Linda. I haven't seen you in ages. You look so... different.
+PL: 
+
+ASAH005LF: start: 32733 end: 38833
+LF: Uh, yeah. I've put on a little weight.
+LF: 
+
+ASAH006PL: start: 38700 end: 43133
+PL: Ah, you know I don't mind that onnnnne bit.
+PL: 
+
+ASAH007LF: start: 43033 end: 47800
+LF: Oh, Sam. You haven't changed at all!
+LF: 
+
+ASAH008LF: start: 47633 end: 50333
+LF: Ah ha ha!
+LF: 
+
+ASAH009PL: start: 48766 end: 50600
+PL: 
+PL: 
+
+ASAH010SH: start: 50133 end: 53066
+SH: 
+SH: 
+

@@ -1,0 +1,12 @@
+MMDF001DM: start: 19933 end: 24033
+DM: I told you not to follow. Now you must die!
+DM: 
+
+MMDF002RA: start: 24400 end: 24733
+Raz: But--
+แรซ: 
+
+MMDF003DM: start: 24800 end: 26433
+DM: THAT IS THE WAY OF THE RAINBOW SQUIRTS!!!
+DM: 
+

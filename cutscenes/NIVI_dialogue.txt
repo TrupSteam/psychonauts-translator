@@ -1,0 +1,20 @@
+NIVI006SA: start: 5400 end: 9066
+Sasha: Razputin, are you okay? What do you see now?
+ซาช่า: 
+
+NIVI007RA: start: 11333 end: 14600
+Raz: I see a small, bunny-like animal thing.
+แรซ: 
+
+NIVI008SA: start: 15000 end: 25566
+Sasha: Hmmm. An unfamiliar animal entity in a dream often represents a primal fear or memory. Follow it, and it should lead you somewhere important.
+ซาช่า: 
+
+NIVI009RA: start: 26566 end: 35466
+Raz: Check. Okay, Mr. Bun. You and I are gonna be tight. Wherever you go, I go. Like... two peas in a--hey!
+แรซ: 
+
+NIVI010RA: start: 35900 end: 37333
+Raz: Come back here!
+แรซ: 
+

@@ -1,0 +1,112 @@
+CALK001RA: start: 8000 end: 11933
+Raz: Bobby! Uh-oh. Look, I can explain--
+แรซ: 
+
+CALK003BZ: start: 13166 end: 15766
+Bobby: TV??
+บ๊อบบี้: 
+
+CALK004BZ: start: 16433 end: 17966
+Bobby: TV!
+บ๊อบบี้: 
+
+CALK005LI: start: 18133 end: 19766
+Lili: Ahh-choo!
+ลิลี่: 
+
+CALK006RA: start: 22533 end: 24933
+Raz: Geez, it sounds like you caught a bad cold.
+แรซ: 
+
+CALK007LI: start: 24966 end: 31800
+Lili: Maybe, but LISTEN! I traced the psychic interference back to Coach Oleander's radio!
+ลิลี่: 
+
+CALK008LI: start: 31800 end: 36533
+Lili: He's been broadcasting his insane plot all over camp in his sleep!
+ลิลี่: 
+
+CALK009RA: start: 36666 end: 40466
+Raz: So he's really kidnapping children and stealing their brains to make weapons!
+แรซ: 
+
+CALK010LI: start: 40466 end: 43266
+Lili: Yes! Isn't that great?
+ลิลี่: 
+
+CALK011RA: start: 43400 end: 45500
+Raz: What? How is that great?
+แรซ: 
+
+CALK012LI: start: 45866 end: 49700
+Lili: Because this is an honest-to-goodness psychic emergency!
+ลิลี่: 
+
+CALK013RA: start: 49700 end: 53766
+Raz: And Sasha's not here! He left on some "official Psychonauts business."
+แรซ: 
+
+CALK014LI: start: 53766 end: 56533
+Lili: Milla left a note saying the same thing!
+ลิลี่: 
+
+CALK015RA: start: 56633 end: 65033
+Raz: Lili, a deranged madman is building an army of psychic death tanks to take over the world, and there's no one who can stop him except for you and me!
+แรซ: 
+
+CALK016LI: start: 65033 end: 66266
+Lili: Oh my god!
+ลิลี่: 
+
+CALK017LI: start: 66266 end: 67233
+Lili: Let's make out!
+ลิลี่: 
+
+CALK018RA: start: 67466 end: 68166
+Raz: Uh, what??
+แรซ: 
+
+CALK019LI: start: 68900 end: 71366
+Lili: Sorry! I'm just so excited!
+ลิลี่: 
+
+CALK020LI: start: 71833 end: 75433
+Lili: Since you showed up, Raz, things are so much more exciting!
+ลิลี่: 
+
+CALK021LI: start: 75800 end: 79166
+Lili: Sinister death plots! Mad scientists!
+ลิลี่: 
+
+CALK022LI: start: 79266 end: 80900
+Lili: Hideous monsters!
+ลิลี่: 
+
+CALK023RA: start: 80900 end: 81733
+Raz: Make out?
+แรซ: 
+
+CALK024LI: start: 81933 end: 90200
+Lili: How long have I ignored what this camp had to offer? Everything's new to me now thanks to you! I mean, look at this flower!
+ลิลี่: 
+
+CALK025RA: start: 89800 end: 91566
+Raz: You mean, like... kiss?
+แรซ: 
+
+CALK026LI: start: 91433 end: 96666
+Lili: How many years have I been coming here and I've never even noticed a cool flower like this before?
+ลิลี่: 
+
+CALK027RA: start: 104500 end: 105266
+Raz: Ahhhh--ooof!
+แรซ: 
+
+CALK028LI: start: 105233 end: 108900
+Lili: Oh, no! You didn't just hit my boyfriend!
+ลิลี่: 
+
+CALK030RA: start: 112966 end: 113533
+Raz: Lili!!!
+แรซ: 
+

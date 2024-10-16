@@ -1,0 +1,36 @@
+CABD001RA: start: 3000 end: 7966
+Raz: Dogen! Are you okay? I had the strangest machine-induced dream about you!
+แรซ: 
+
+CABD002DO: start: 7966 end: 9000
+Dogen: TV?
+โดแกน: 
+
+CABD003RA: start: 9000 end: 13533
+Raz: Well, first of all, Sasha Nein invited me down to his SECRET LAB and--
+แรซ: 
+
+CABD004DO: start: 13800 end: 14766
+Dogen: 
+โดแกน: 
+
+CABD005RA: start: 19666 end: 21400
+Raz: He's completely brainless!
+แรซ: 
+
+CABD006RA: start: 21666 end: 23033
+Raz: The dream was true!
+แรซ: 
+
+CABD007RA: start: 23833 end: 32900
+Raz: Dogen, don't worry. I know where your brains are. They're in... like, this crazy, dream-thorn-bush-straight-jacket-tower place.
+แรซ: 
+
+CABD008DO: start: 32900 end: 34166
+Dogen: Hackey sack?
+โดแกน: 
+
+CABD009RA: start: 34166 end: 40600
+Raz: You go to the TV lounge. I'm on the case. I just need a little more advanced training to prepare
+แรซ: 
+

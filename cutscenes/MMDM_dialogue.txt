@@ -1,0 +1,56 @@
+MMDM001RA: start: 133 end: 633
+Raz: Ah ha!
+แรซ: 
+
+MMDM002DM: start: 3500 end: 10700
+DM: Oh, hello there. Have you come to pay for your Rainbow Treats? We knew you would.
+DM: 
+
+MMDM003DM: start: 10900 end: 15300
+DM: Won't you join us in our Rainbow Squirt Pledge of Purpose?
+DM: 
+
+MMDM004RQ: start: 15700 end: 17333
+RQ: To Promote Niceness.
+RQ: 
+
+MMDM005RQ: start: 17966 end: 19600
+RQ: To Make the World Prettier.
+RQ: 
+
+MMDM006RQ: start: 20200 end: 22500
+RQ: To Share Candy With Everyone.
+RQ: 
+
+MMDM007RQ: start: 23333 end: 26600
+RQ: To Obfuscate the True Nature of the Milkman.
+RQ: 
+
+MMDM009RQ: start: 27233 end: 29866
+RQ: To protect the Milkman at all costs.
+RQ: 
+
+MMDM010DM: start: 42966 end: 44966
+DM: You brought them here!
+DM: 
+
+MMDM011RQ: start: 45300 end: 50966
+RQ: To Destroy All Who Would Harm the Milkman, or Threaten to Reveal His Secret Objective.
+RQ: 
+
+MMDM012DM: start: 51166 end: 53433
+DM: Go girls! Protect the milk!
+DM: 
+
+MMDM013RS: start: 53566 end: 56133
+RS: 
+RS: 
+
+MMDS001DM: start: 55733 end: 56400
+DM: Hi-ya!
+DM: 
+
+MMDM014DM: start: 57233 end: 62900
+DM: Do not follow! The milk is not ready, and you are not ready for the milk!
+DM: 
+

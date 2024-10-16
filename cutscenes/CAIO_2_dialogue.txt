@@ -1,0 +1,40 @@
+INBB004RA: start: 0 end: 3600
+Raz: Sir! We need to get a containment team in the area STAT!
+แรซ: 
+
+INBB005RA: start: 3500 end: 5500
+Raz: I've spotted a U.P.E.
+แรซ: 
+
+INBB006CO: start: 5366 end: 6533
+Coach: A U.P.E.?
+โค้ช: 
+
+INBB007RA: start: 6400 end: 12533
+Raz: Yes, an Unregistered Paranormal Entity, possibly aquatic in nature...
+แรซ: 
+
+INBB008CO: start: 12333 end: 16566
+Coach: I know what a U.P.E. is, son. I just don't know how YOU know.
+โค้ช: 
+
+INBB009RA: start: 16533 end: 19766
+Raz: From "True Psychic Tales" Issue 424, sir!
+แรซ: 
+
+INBB010RA: start: 19666 end: 22800
+Raz: Where Sasha Nein fought that clairvoyant grizzly bear?
+แรซ: 
+
+INBB011CO: start: 22866 end: 25066
+Coach: Pah! Comic books!
+โค้ช: 
+
+INBB012RA: start: 24833 end: 30666
+Raz: This thing was real, and huge, and--and it smelled all smelly!
+แรซ: 
+
+INBB013CO: start: 30366 end: 33633
+Coach: Save your fish stories for the boathouse, boy.
+โค้ช: 
+

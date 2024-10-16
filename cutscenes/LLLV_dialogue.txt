@@ -1,0 +1,40 @@
+LLLV001LF: start: 2100 end: 3600
+LF: Human child.
+LF: 
+
+LLLV002RA: start: 3500 end: 6033
+Raz: Wha--who is that?
+แรซ: 
+
+LLLV003LF: start: 6366 end: 9633
+LF: It is I, the creature whose spirit was once--
+LF: 
+
+LLLV004LF: start: 9966 end: 16666
+LF: Um, over here. Behind you? Yes.
+LF: 
+
+LLLV005RA: start: 16600 end: 17000
+Raz: Oh.
+แรซ: 
+
+LLLV006LF: start: 17400 end: 21600
+LF: The creature whose spirit was once enslaved by the evil one.
+LF: 
+
+LLLV007LF: start: 22100 end: 29766
+LF: You have unchained my soul, and now I shall repay you, powerful human child!
+LF: 
+
+LLLV008RA: start: 29666 end: 35366
+Raz: Oh, uh... great! Well okay, show me what you did to my friend Lili!
+แรซ: 
+
+LLLV009LF: start: 35833 end: 40966
+LF: By the drowned spirit of Oblongata, it is done!
+LF: 
+
+LLLV010RA: start: 40866 end: 41366
+Raz: Ah--
+แรซ: 
+

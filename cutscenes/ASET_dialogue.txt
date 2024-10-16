@@ -1,0 +1,84 @@
+ASET005RA: start: 8200 end: 9300
+Raz: What ya paintin' there?
+แรซ: 
+
+ASET008ED: start: 10533 end: 14600
+ED: That is my patron, my psychiatrist, my warden.
+ED: 
+
+ASET007RA: start: 15533 end: 17200
+Raz: Looks like Doctor Loboto to me.
+แรซ: 
+
+ASET009RA: start: 17600 end: 19366
+Raz: Is he the one who chained you up?
+แรซ: 
+
+ASET011ED: start: 19366 end: 23033
+ED: The Doctor won't let me go until I complete my treatment.
+ED: 
+
+ASET012RA: start: 23033 end: 25600
+Raz: So, why don't you just finish the painting and go home?
+แรซ: 
+
+ASET013ED: start: 25600 end: 28933
+ED: Why... don't I... just...
+ED: 
+
+ASET015RA: start: 41766 end: 45466
+Raz: Wow! See, sometimes you just have to--
+แรซ: 
+
+ASET016RA: start: 46266 end: 52066
+Raz: Huh. You painted a bullfight over the Doctor's face. Why a bull fight?
+แรซ: 
+
+ASET017RA: start: 52366 end: 55066
+Raz: Huh? Huh Edgar? Why do you--
+แรซ: 
+
+ASET018ED: start: 54700 end: 57700
+ED: 
+ED: 
+
+ASET019ED: start: 57633 end: 58966
+ED: EVERY TIME!
+ED: 
+
+ASET020ED: start: 58966 end: 62066
+ED: Every time it is the same!
+ED: 
+
+ASET021ED: start: 62066 end: 66500
+ED: The matador! The bull! How I despise you both!
+ED: 
+
+ASET022ED: start: 66500 end: 71066
+ED: But my hands... won't let you go.
+ED: 
+
+ASET023ED: start: 71066 end: 73133
+ED: Ahhhhhh!
+ED: 
+
+ASET026ED: start: 73333 end: 78466
+ED: That is why I am here, chained in more ways than you can see.
+ED: 
+
+ASET027RA: start: 78466 end: 80100
+Raz: A prisoner of art.
+แรซ: 
+
+ASET028ED: start: 80100 end: 82333
+ED: 
+ED: 
+
+ASET029RA: start: 84633 end: 88466
+Raz: Well, I'm going downstairs. You good?
+แรซ: 
+
+ASET030ED: start: 88466 end: 89033
+ED: I'm good.
+ED: 
+

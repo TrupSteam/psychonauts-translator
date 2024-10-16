@@ -1,0 +1,68 @@
+BBLI001BZ: start: 4833 end: 8966
+Bobby: We can't get past this. This is STUPID.
+บ๊อบบี้: 
+
+BBLI002RA: start: 8766 end: 15333
+Raz: Hmm. Looks like a test. There's probably a secret, more advanced route.
+แรซ: 
+
+BBLI003BZ: start: 15133 end: 21300
+Bobby: What's THAT supposed to mean? You think you're more advanced than me, new kid?
+บ๊อบบี้: 
+
+BBLI004RA: start: 21066 end: 22300
+Raz: Sorry. What?
+แรซ: 
+
+BBLI005BZ: start: 22100 end: 31566
+Bobby: I'm not stupid. You're stupid. The Coach is stupid. The whole camp is stupid. That thing flying at you is stupid!
+บ๊อบบี้: 
+
+BBLI006RA: start: 31366 end: 32433
+Raz: What's flying at me?
+แรซ: 
+
+BBLI007RA: start: 32233 end: 32600
+Raz: Wha--
+แรซ: 
+
+CAEM003BZ: start: 32600 end: 34866
+Bobby: Ah-ha-ha-ha!
+บ๊อบบี้: 
+
+BBLI008BZ: start: 34533 end: 40966
+Bobby: Bobby Zilch's foot, that's what! Ya stupid new kid! Yeah!
+บ๊อบบี้: 
+
+BBLI009BZ: start: 40733 end: 45200
+Bobby: Eh, eh-heh! Eh, eh, eh-eh! Eh, eh-eh!
+บ๊อบบี้: 
+
+BBLI010RA: start: 44933 end: 46166
+Raz: Waaaahhh-uh!
+แรซ: 
+
+BBLI012RA: start: 46700 end: 50166
+Raz: Oh, heh. Thanks for saving me!
+แรซ: 
+
+BBLI013LI: start: 50000 end: 53800
+Lili: Well, actually, I was saving this plant.
+ลิลี่: 
+
+BBLI014RA: start: 53666 end: 56700
+Raz: Huh. Never seen one so meaty before.
+แรซ: 
+
+BBLI015LI: start: 56800 end: 61600
+Lili: I have. It's been appearing in this creepy nightmare I keep having.
+ลิลี่: 
+
+BBLI016RA: start: 61166 end: 67233
+Raz: You're having nightmares? Oh, I've been reading about how to fix those! Will you let me see one?
+แรซ: 
+
+BBLI017LI: start: 67166 end: 69333
+Lili: Hmmm. No.
+ลิลี่: 
+

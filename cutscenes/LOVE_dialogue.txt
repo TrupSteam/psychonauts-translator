@@ -1,0 +1,48 @@
+LOVE001CO: start: 16666 end: 19900
+Coach: Agggghhh!
+โค้ช: 
+
+LOVE002CO: start: 21900 end: 27633
+Coach: Fine! Take control of this freaky toad! I don't need him to nab children for me anymore!
+โค้ช: 
+
+LOVE003CO: start: 27800 end: 35466
+Coach: I've got the brain of a little girl back in my lab that's strong enough to power a whole army of Psychoblaster Death Tanks!
+โค้ช: 
+
+LOVE005CO: start: 35833 end: 36200
+Coach: Wha--
+โค้ช: 
+
+LOVE006RA: start: 36600 end: 38400
+Raz: Ha ha ha!
+แรซ: 
+
+LOVE007CO: start: 38100 end: 38633
+Coach: What?
+โค้ช: 
+
+LOVE008RA: start: 38400 end: 42533
+Raz: You've got the brain of a little girl! Ha ha ha!
+แรซ: 
+
+LOVE009CO: start: 41666 end: 44000
+Coach: I said in my lab!
+โค้ช: 
+
+LOVE010RA: start: 43733 end: 46500
+Raz: I think you've got the muscles of a little girl, too.
+แรซ: 
+
+LOVE012CO: start: 46500 end: 47933
+Coach: Ahhhh! Grrrrr!
+โค้ช: 
+
+LOVE011RA: start: 46500 end: 48133
+Raz: 
+แรซ: 
+
+LOVE013CO: start: 49400 end: 50233
+Coach: Good one!
+โค้ช: 
+

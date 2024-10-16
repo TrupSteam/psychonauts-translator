@@ -1,0 +1,40 @@
+BVVI001DI: start: 700 end: 1066
+DI: Ooof!
+DI: 
+
+BVVI002LA: start: 1166 end: 4600
+LA: Ah-hoo hoo!
+LA: 
+
+BVVI004LA: start: 6133 end: 9066
+LA: It's... all right... it's okay.
+LA: 
+
+BVVI005LA: start: 9333 end: 15400
+LA: We'll win the game... some... other... day oooh hooo hoo!
+LA: 
+
+BVVI006RA: start: 15400 end: 21333
+Raz: Ug, please. Edgar, look at them. They're too pathetic to hurt you any more.
+แรซ: 
+
+BVVI007RA: start: 21800 end: 23566
+Raz: Can't you just let it go?
+แรซ: 
+
+BVVI008ED: start: 24266 end: 29700
+ED: How embarrassing. I can't believe I was hung up for so long over these losers.
+ED: 
+
+BVVI009LA: start: 32366 end: 36000
+LA: Um... uh... I--I always loved you more?
+LA: 
+
+BVVI011DI: start: 41133 end: 47200
+DI: 
+DI: 
+
+BVVI010LA: start: 41133 end: 47200
+LA: Ahhhhhhhhhhhhhhhhh!
+LA: 
+

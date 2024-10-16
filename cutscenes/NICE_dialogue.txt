@@ -1,0 +1,44 @@
+NICE001RA: start: 900 end: 2966
+Raz: Uh... Sasha?
+แรซ: 
+
+NICE002SA: start: 2966 end: 4400
+Sasha: What is it? Another bunny?
+ซาช่า: 
+
+NICE003RA: start: 4400 end: 9100
+Raz: No, this is more of a super scary, flaming-eyed demon kind of deal.
+แรซ: 
+
+NICE004SA: start: 9100 end: 11033
+Sasha: Oh. Hmmm.
+ซาช่า: 
+
+NICE005RA: start: 10833 end: 11433
+Raz: What?
+แรซ: 
+
+NICE006SA: start: 11533 end: 15000
+Sasha: Okay, I'm pulling you out of there. Just give me a second.
+ซาช่า: 
+
+NICE007RA: start: 14700 end: 15933
+Raz: Uh, Sasha?
+แรซ: 
+
+NICE008SA: start: 15900 end: 21333
+Sasha: Hold on. I'm still getting some unusual interference. It's fascinating, as if someone else were--
+ซาช่า: 
+
+NICE009RA: start: 21033 end: 22066
+Raz: Agent Nein?
+แรซ: 
+
+NICE010SA: start: 21733 end: 23933
+Sasha: Sorry. Almost ready--
+ซาช่า: 
+
+NICE011RA: start: 23533 end: 25000
+Raz: SASHA!
+แรซ: 
+

@@ -1,0 +1,13 @@
+id;character;origin_dialogue;translated_dialogue
+CAZE001TO;TO;Move /LookControls/ to look right.;
+CAZE002TO;TO;Move /LookControls/ to look up.;
+CAZE005TO;TO;Move /LookControls/ to look around.;
+CAZE010TO;TO;Use /MovementControls/ to aim your toss.;
+CAZE014TO;TO;Try hanging and swinging on these wood supports. Use /MovementControls/ to swing.  Press /AButton/ to jump off.;
+CAZE021TO;TO;Move /MovementControls/ to build up momentum on this trapeze, then press /AButton/ to jump!;
+CAZJ004TO;TO;/AButton/ Select Bunk;
+CAZJ005TO;TO;/AButton/ Overwrite Profile;
+CAZJ006TO;TO;Delete Profile;
+GLZG041TO;TO;/BButton/ Exit;
+CAZF004TO;TO;To change your camera preferences, press /StartButton/ to open your JOURNAL, and select OPTIONS from the first page.;
+CAZF006TO;TO;This DOWSING ROD can be used to find deeper, more valuable PSITANIUM ARROWHEADS. Equip the DOWSING ROD and watch and listen to its changing color and sound. This is how it lets you know that you are getting closer to a DEEP ARROWHEAD.;

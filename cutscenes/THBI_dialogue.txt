@@ -1,0 +1,60 @@
+THBI000RA: start: 3966 end: 6766
+Raz: Okay Phantom, it's time to find out who--
+แรซ: 
+
+THBI001RA: start: 7600 end: 9600
+Raz: ...you really are.
+แรซ: 
+
+THBI002RA: start: 15033 end: 15466
+Raz: What?
+แรซ: 
+
+THBI003RA: start: 19266 end: 21000
+Raz: I totally guessed that!
+แรซ: 
+
+THBI004FF: start: 21500 end: 23500
+FF: Nuh-uh. You said it was Becky!
+FF: 
+
+THBI005RA: start: 23866 end: 24400
+Raz: Tssssst!
+แรซ: 
+
+THBI006RA: start: 26033 end: 28033
+Raz: Okay, the jig is up, PHANTOM!
+แรซ: 
+
+THBI007JA: start: 28500 end: 37733
+JA: What? Why, I never! How dare you accuse me of being the rugged and romantic scoundrel that has thrilled and terrified audiences for years!
+JA: 
+
+THBI008RA: start: 38133 end: 45366
+Raz: Yeah, I guess you're right. He's so agile, and limber, and... thin. He could never be you.
+แรซ: 
+
+THBI009JA: start: 47000 end: 49333
+JA: Why you! Of course it's me!
+JA: 
+
+THBI010RA: start: 49333 end: 55066
+Raz: Well it's time to hang up the cape, Tubs, because your days of terrorizing the theater as the Phantom are over.
+แรซ: 
+
+THBI011JA: start: 55066 end: 63733
+JA: Maybe as the Phantom, but he's nothing compared to the full, destructive force of an angry critic! Ha ha ha!
+JA: 
+
+THBI012RA: start: 63733 end: 70666
+Raz: Hmm. How can I say this and still sound cool... sticks and stones may break my bones but words will never hurt me?
+แรซ: 
+
+THBI013JA: start: 81466 end: 82533
+JA: Well then!
+JA: 
+
+THBI014JA: start: 82533 end: 86433
+JA: How 'bout these? Wahahahahaha!
+JA: 
+

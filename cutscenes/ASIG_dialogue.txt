@@ -1,0 +1,8 @@
+ASIG000GL: start: 4333 end: 4900
+Gloria: OH!
+กลอเรีย: 
+
+ASIG003GL: start: 5066 end: 8466
+Gloria: If you don't like the performance, a simple "boo" will do.
+กลอเรีย: 
+

@@ -1,0 +1,60 @@
+CALD001RA: start: 433 end: 1033
+Raz: Lili!
+แรซ: 
+
+CALD002LI: start: 1666 end: 3066
+Lili: Oh, hey Raz.
+ลิลี่: 
+
+CALD003LI: start: 3466 end: 6866
+Lili: Listen, I made you something. It's kind of stupid, but--
+ลิลี่: 
+
+CALD004RA: start: 6766 end: 8566
+Raz: They stole Dogen's brains!
+แรซ: 
+
+CALD005LI: start: 9333 end: 10866
+Lili: No, he's just like that.
+ลิลี่: 
+
+CALD006RA: start: 11166 end: 15333
+Raz: I had a nightmare where this mad scientist guy said he was going to take them out and--
+แรซ: 
+
+CALD007LI: start: 15200 end: 20666
+Lili: Was it a creepy-looking freak with a shower cap and a stainless steel, three pronged claw?
+ลิลี่: 
+
+CALD008RA: start: 20666 end: 22933
+Raz: Hey! That's MY nightmare!
+แรซ: 
+
+CALD009LI: start: 22933 end: 24933
+Lili: So it's not just me
+ลิลี่: 
+
+CALD010RA: start: 25266 end: 28166
+Raz: But how? And why all the meat?
+แรซ: 
+
+CALD011LI: start: 28500 end: 33466
+Lili: I don't know, but I think it's time I find out where this is coming from.
+ลิลี่: 
+
+CALD013LI: start: 35466 end: 39266
+Lili: Let's rendezvous tonight at the old boathouse for debriefing.
+ลิลี่: 
+
+CALD014RA: start: 39400 end: 41066
+Raz: This is so cool.
+แรซ: 
+
+CALD015LI: start: 41200 end: 45800
+Lili: Yeah, it feels like that time in "True Psychic Tales" 314 where--
+ลิลี่: 
+
+CALD017LI: start: 47566 end: 48300
+Lili: Shut up!
+ลิลี่: 
+

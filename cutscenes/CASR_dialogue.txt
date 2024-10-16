@@ -1,0 +1,60 @@
+CASR001BN: start: 0 end: 6933
+BN: Way to make us look bad in there! You're in trouble now! Bobby Zilch ain't happy.
+BN: 
+
+CASR002BZ: start: 7200 end: 10800
+Bobby: You better watch yourself, Gogglicious.
+บ๊อบบี้: 
+
+CASR003RA: start: 11100 end: 14666
+Raz: What's that, Hair Boy? You want a piece of me?
+แรซ: 
+
+CASR004LI: start: 14700 end: 17500
+Lili: Hey, brainiacs. Settle down.
+ลิลี่: 
+
+CASR005BZ: start: 17666 end: 21300
+Bobby: Why? You worried I'm gonna hurt your boyfriend?
+บ๊อบบี้: 
+
+CASR006LI: start: 21733 end: 26333
+Lili: No. Because Sasha Nein is standing right behind you.
+ลิลี่: 
+
+CASR007SA: start: 28166 end: 34600
+Sasha: Your performance, young cadet, was outstanding. I'd like you to report to my lab for some advanced training.
+ซาช่า: 
+
+CASR008BZ: start: 34900 end: 45733
+Bobby: Oooh! Raz the Spaz is gonna be in the "special" class. Benny, remind me to give him a "special" beating later, okay?
+บ๊อบบี้: 
+
+CASR009SA: start: 47400 end: 58500
+Sasha: These tests are unauthorized, though, so I can't actually ask you to come. But if you happened to drop in, well, what could I do? Let me just give you this...
+ซาช่า: 
+
+CASR010SA: start: 59566 end: 60300
+Sasha: Remember:
+ซาช่า: 
+
+CASR011SA: start: 60400 end: 63466
+Sasha: Your talent will always set you apart, Razputin.
+ซาช่า: 
+
+CASR012SA: start: 63766 end: 70200
+Sasha: Sometimes isolation is a good thing. It can lead to important discoveries.
+ซาช่า: 
+
+CASR013RA: start: 72000 end: 76600
+Raz: Wait, I don't even know where your lab is! Is this some kind of test?
+แรซ: 
+
+CASR014SA: start: 77900 end: 84333
+Sasha: 
+ซาช่า: 
+
+CASR015RA: start: 84900 end: 87233
+Raz: And now I'm hearing things. Great.
+แรซ: 
+

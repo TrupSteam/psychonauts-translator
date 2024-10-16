@@ -1,0 +1,48 @@
+THBF000SF: start: 3000 end: 8133
+SF: And where would Gloria be without her muse?
+SF: 
+
+thbf001hf: start: 8000 end: 9733
+HF: Her inner sunshine!
+HF: 
+
+thbf002ff: start: 9766 end: 12433
+FF: The spirit of her youth!
+FF: 
+
+thbf003sf: start: 12433 end: 16333
+SF: Played tonight, once again, by...
+SF: 
+
+thbf006ff: start: 16333 end: 19366
+FF: 
+FF: 
+
+thbf004sf: start: 16400 end: 19100
+SF: Bonita Soleil!
+SF: 
+
+thbf005hf: start: 16500 end: 18400
+HF: 
+HF: 
+
+thbf007ja: start: 44433 end: 54733
+JA: You'd better listen to me! You're no good! This play stinks! It's worse than ever before! Oh, I can't believe you call this theater!
+JA: 
+
+thbf008ja: start: 54866 end: 60366
+JA: I can't even see it from down here, but I know it's bad! Can you hear me?
+JA: 
+
+thbf009ja: start: 60366 end: 65300
+JA: Oh, you've got fat arms, you hear me? Big fat arms like a wrestler!
+JA: 
+
+thbf010ja: start: 65566 end: 68300
+JA: And a little turkey gobble hanging from your neck!
+JA: 
+
+thbf011ja: start: 68500 end: 73233
+JA: Oh, your knees are ugly, and you snort when you laugh!
+JA: 
+

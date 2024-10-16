@@ -1,0 +1,20 @@
+SLBT001RA: start: 0 end: 2800
+Raz: So, what's this hair dryer thing do?
+แรซ: 
+
+SLBT002SA: start: 2866 end: 5066
+Sasha: Ah, you're ready for the Brain Tumbler.
+ซาช่า: 
+
+SLBT003SA: start: 5233 end: 12566
+Sasha: With this device we will send you deep into your own psyche, where you should find unparalleled insight and power.
+ซาช่า: 
+
+SLBT004RA: start: 12566 end: 15266
+Raz: Excellent. Tumble away.
+แรซ: 
+
+SLBT005SA: start: 15500 end: 21033
+Sasha: Now just relax. This will not hurt, unless something really very bad happens.
+ซาช่า: 
+

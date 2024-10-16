@@ -1,0 +1,8 @@
+ASIB001BO: start: 4800 end: 5166
+Boyd: Gah!
+บอยด์: 
+
+ASIB002BO: start: 6233 end: 7833
+Boyd: Not another tracking device!
+บอยด์: 
+
