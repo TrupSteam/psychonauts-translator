@@ -1,0 +1,56 @@
+SAIN001SA: start: 4633 end: 6233
+Sasha: Welcome to my mind.
+ซาช่า: 
+
+SAIN002RA: start: 6300 end: 9066
+Raz: Huh. It's so empty.
+แรซ: 
+
+SAIN003RA: start: 9700 end: 10733
+Raz: Uh, I mean--
+แรซ: 
+
+SAIN004SA: start: 10733 end: 15600
+Sasha: There's more here than meets the eye, but I've learned to keep it under strict control.
+ซาช่า: 
+
+SAIN005SA: start: 15666 end: 18900
+Sasha: And that's what I'm going to teach you: control.
+ซาช่า: 
+
+SAIN006SA: start: 19000 end: 28400
+Sasha: Your feelings, your fears, your anger. You must learn to control them, focus them, concentrate them, and release them.
+ซาช่า: 
+
+SAIN007RA: start: 28333 end: 29466
+Raz: As therapy?
+แรซ: 
+
+SAIN008SA: start: 29400 end: 31300
+Sasha: No, as firepower!
+ซาช่า: 
+
+SAIN009SA: start: 31566 end: 38366
+Sasha: Say something hideous and horrible jumps out at you. Something so disgusting that it simply must die.
+ซาช่า: 
+
+SAIN010SA: start: 40466 end: 45866
+Sasha: Ahhh, oh, so tacky... I can't... look... directly at it!
+ซาช่า: 
+
+SAIN011SA: start: 46200 end: 52633
+Sasha: But I control those feelings, focus them, concentrate, and
+ซาช่า: 
+
+SAIN012SA: start: 52633 end: 53433
+Sasha: release!
+ซาช่า: 
+
+SAIN013SA: start: 54200 end: 56300
+Sasha: And the world is a better place.
+ซาช่า: 
+
+SAIN014SA: start: 56433 end: 56966
+Sasha: Your turn.
+ซาช่า: 
+

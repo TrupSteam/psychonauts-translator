@@ -1,0 +1,48 @@
+BVIN001RA: start: 6933 end: 9300
+Raz: That's an impressive house of cards you're building there.
+แรซ: 
+
+BVIN002ED: start: 9433 end: 15900
+ED: And still... not high enough to reach the sky, and free her from her prison.
+ED: 
+
+BVIN003RA: start: 15966 end: 16633
+Raz: Who is she?
+แรซ: 
+
+BVIN005ED: start: 16933 end: 22566
+ED: I only know that she is beautiful, perfect, and sad.
+ED: 
+
+BVIN006ED: start: 22833 end: 31333
+ED: All day she cries rose petal tears, and I can do nothing to help her because my creation... lacks something.
+ED: 
+
+BVIN007ED: start: 31366 end: 34666
+ED: And it will not stand against the bull.
+ED: 
+
+BVIN008RA: start: 34700 end: 35333
+Raz: What bull?
+แรซ: 
+
+BVIN009ED: start: 35400 end: 39600
+ED: El Odio.
+ED: 
+
+BVIN011ED: start: 54033 end: 60133
+ED: Somewhere along the way I feel that I lost something important, but I do not know
+ED: 
+
+BVIN012RA: start: 60133 end: 63400
+Raz: I think it's your queens. You want me to go look for them?
+แรซ: 
+
+BVIN013ED: start: 63566 end: 66966
+ED: Bring me any cards you find! I must complete this tower!
+ED: 
+
+BVIN014RA: start: 66966 end: 68200
+Raz: Yes, uh--ummph!!
+แรซ: 
+

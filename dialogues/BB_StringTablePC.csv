@@ -1,0 +1,7 @@
+id;character;origin_dialogue;translated_dialogue
+BBZE009TO;TO;Shimmy on bar with /MovementControls/;
+BBZE010TO;TO;Swing on bar with /MovementControls/;
+BBZE011TO;TO;Use /MovementControls/ to shimmy across ledge.;
+BBZE012TO;TO;Use /MovementControls/ with /AButton/ to switch rails.;
+BBZF006TO;TO;Swing or shimmy with /MovementControls/;
+BBZF008TO;TO;Press /RClick/ to enter first-person camera mode. Then move the /LookControls/ to look around.;

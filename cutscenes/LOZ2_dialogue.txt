@@ -1,0 +1,60 @@
+LOZI022Z1: start: 900 end: 2033
+Z1: 
+Z1: 
+
+LOZI022Z1: start: 1966 end: 3100
+Z1: 
+Z1: 
+
+LOZI024Z3: start: 3300 end: 5000
+Z3: 
+Z3: 
+
+LOZI025RA: start: 4266 end: 8100
+Raz: Hooyah! Now how about getting me past those gates?
+แรซ: 
+
+LOZI026Z1: start: 8133 end: 14733
+Z1: Right. We stole this shield power module from Kochamara. It's too big for any of us to operate, but it should work for you.
+Z1: 
+
+LOZI027RA: start: 34600 end: 38833
+Raz: Hey, is this gonna upset Kochamara and all your little brainwashed neighbors?
+แรซ: 
+
+LOZI028Z1: start: 38800 end: 39966
+Z1: Nooo.
+Z1: 
+
+LOZI029Z2: start: 40066 end: 41500
+Z2: I doubt it.
+Z2: 
+
+LOZI030Z3: start: 42100 end: 43800
+Z3: Uh, no no no.
+Z3: 
+
+LOZI031RA: start: 44166 end: 50700
+Raz: So knocking down the prison and then breaking this laser shield thing--nobody's gonna get mad about that and start shooting at me?
+แรซ: 
+
+LOZI032Z1: start: 50733 end: 51600
+Z1: Nooooo!
+Z1: 
+
+LOZI033Z2: start: 53133 end: 55566
+Z2: Uhh, maybe one guy would.
+Z2: 
+
+LOZI034Z1: start: 55600 end: 60933
+Z1: But what is even an entire navy of Lungfish against the might and revolutionary zeal of Goggalor!
+Z1: 
+
+LOZI035RA: start: 60966 end: 62933
+Raz: Wait, what Navy?
+แรซ: 
+
+LOZI036Z1: start: 62966 end: 66400
+Z1: Meet us at the dam, Goggalor. FOR FREEDOM!
+Z1: 
+

@@ -1,0 +1,40 @@
+ASSH001SH: start: 8866 end: 14466
+SH: (Gasp!) M-M-Mr. Pokeylope?
+SH: 
+
+ASSH002SH: start: 14466 end: 22866
+SH: Oh, Mr. Pokeylope! (Kiss kiss.) I was so scared!
+SH: 
+
+ASSH009SH: start: 23466 end: 26566
+SH: Now you're back, Mr. Pokeylope, and you'll tell us what to do!
+SH: 
+
+ASSH010SH: start: 27333 end: 31466
+SH: Right? You've got a plan or something, right Mr. Pokeylope?
+SH: 
+
+ASSH011SH: start: 31700 end: 32166
+SH: Right???
+SH: 
+
+ASSH012PL: start: 32966 end: 38466
+PL: That's right baby. Daddy's here. Everything's gonna be alllll right.
+PL: 
+
+ASSH013PL: start: 39200 end: 40866
+PL: Now here's what we're gonna do.
+PL: 
+
+ASSH015PL: start: 41500 end: 50833
+PL: (Mutter mutter.)
+PL: 
+
+ASSH014SH: start: 43100 end: 47366
+SH: Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmm
+SH: 
+
+ASSH014SH: start: 48033 end: 52300
+SH: Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmm
+SH: 
+

@@ -1,0 +1,36 @@
+NIEN001RA: start: 7700 end: 11433
+Raz: Is this a nightmare... or a plan?
+แรซ: 
+
+NIEN002RA: start: 11933 end: 13066
+Raz: Or both?
+แรซ: 
+
+NIEN003RA: start: 13100 end: 14566
+Raz: Wait a minute!
+แรซ: 
+
+NIEN004SA: start: 18433 end: 24500
+Sasha: Razputin, I'm sorry. I had to abort the experiment. Something unbelievably urgent has come up and I must leave immediately.
+ซาช่า: 
+
+NIEN005RA: start: 24233 end: 26266
+Raz: I know! You'll never believe--
+แรซ: 
+
+NIEN006SA: start: 25933 end: 29000
+Sasha: Hold that thought! In a rush! Official Psychonauts business!
+ซาช่า: 
+
+NIEN007RA: start: 28666 end: 31100
+Raz: Wait! So is this!
+แรซ: 
+
+NIEN008RA: start: 31766 end: 35200
+Raz: Official Psychonaut--hey! You forgot your--
+แรซ: 
+
+NIEN009RA: start: 35700 end: 37033
+Raz: Hmmm...
+แรซ: 
+

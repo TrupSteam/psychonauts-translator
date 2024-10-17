@@ -1,0 +1,52 @@
+CALU006RA: start: 3700 end: 4266
+Raz: (sniff sniff)
+แรซ: 
+
+CALU002RA: start: 14433 end: 14800
+Raz: Gah!
+แรซ: 
+
+CALU003RA: start: 15066 end: 18366
+Raz: Hey, was that you? Looking at me?
+แรซ: 
+
+CALU004LI: start: 18833 end: 24733
+Lili: Maybe you should try getting over yourself? There were a lot of other people on that stage besides you.
+ลิลี่: 
+
+CALU005RA: start: 24933 end: 27700
+Raz: No, just now. In the woods.
+แรซ: 
+
+CALU006RA: start: 28300 end: 28866
+Raz: (sniff sniff)
+แรซ: 
+
+CALU007RA: start: 29233 end: 32100
+Raz: No, it must have been something else.
+แรซ: 
+
+CALU008RA: start: 32233 end: 33666
+Raz: You don't smell like pond scum.
+แรซ: 
+
+CALU009LI: start: 34333 end: 36900
+Lili: Nice. You should write greeting cards.
+ลิลี่: 
+
+CALU017RA: start: 37200 end: 42666
+Raz: There was some sort of shadowy being out there... lurking... watching...
+แรซ: 
+
+CALU018LI: start: 42666 end: 52500
+Lili: I know of only one creature who fits that description. It likes to hide in dark places, silently watching unsuspecting children from a distance.
+ลิลี่: 
+
+CALU019RA: start: 52500 end: 54133
+Raz: Really? Who?
+แรซ: 
+
+CALU020LI: start: 54500 end: 56966
+Lili: You, tree sitter!  Hahahaha!
+ลิลี่: 
+

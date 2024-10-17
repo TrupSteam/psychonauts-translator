@@ -1,0 +1,56 @@
+MCVI000RA: start: 33300 end: 38900
+Raz: Ah! Ah! Bunnies! No! No meat! Ah!
+แรซ: 
+
+MCVI001GD: start: 38533 end: 43166
+GD: Shhh. No more. No more meat. Look.
+GD: 
+
+MCVI002OL: start: 46700 end: 51100
+OL: There you go. Goooood little bunny. Ha ha!
+OL: 
+
+MCVI003OL: start: 51766 end: 56600
+OL: Hey, thanks for helping me save the bunnies. And for talking to my dad.
+OL: 
+
+MCVI004RA: start: 57600 end: 60366
+Raz: Uh, no problem, little Oly.
+แรซ: 
+
+MCVI005OL: start: 60433 end: 63900
+OL: Bye! Bye! Wave goodbye, Mr. Bun!
+OL: 
+
+MCVI006RA: start: 64033 end: 64866
+Raz: Where's he going?
+แรซ: 
+
+MCVI007GD: start: 65100 end: 68100
+GD: We're separating the brains now Razputin.
+GD: 
+
+MCVI008GD: start: 68266 end: 69400
+GD: He'll be fine.
+GD: 
+
+MCVI009GD: start: 69466 end: 70866
+GD: Let's go inside.
+GD: 
+
+MCVI010RA: start: 70866 end: 73800
+Raz: Man, I can't wait to tell you about all the messed up stuff that happened.
+แรซ: 
+
+MCVI011GD: start: 74400 end: 79666
+GD: Oh, I know a lot of it. While you were out I... poked around a bit. 
+GD: 
+
+MCVI013GD: start: 79966 end: 82700
+GD: Tell me about this Lili person.
+GD: 
+
+MCVI014RA: start: 82866 end: 83533
+Raz: Hey!
+แรซ: 
+

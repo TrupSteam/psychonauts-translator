@@ -1,0 +1,76 @@
+LOZI001Z1: start: 0 end: 2966
+Z1: Hey! Goggalor! Down here!
+Z1: 
+
+LOZI002RA: start: 4266 end: 6566
+Raz: Excuse me, were you talking to me?
+แรซ: 
+
+LOZI003Z1: start: 6133 end: 9566
+Z1: Ahhhhhh! Owwwww! My ears!
+Z1: 
+
+LOZI004RA: start: 9466 end: 10333
+Raz: I'm sorry.
+แรซ: 
+
+LOZI005Z1: start: 10000 end: 14566
+Z1: Ahhhhhh! Oh my god! Ahhhhhhhh!
+Z1: 
+
+LOZI006RA: start: 15133 end: 16400
+Raz: Are you okay?
+แรซ: 
+
+LOZI007Z2: start: 17833 end: 18866
+Z2: He's dead!
+Z2: 
+
+LOZI008RA: start: 18633 end: 19966
+Raz: Oh jeez, I'm sorry.
+แรซ: 
+
+LOZI009Z2: start: 19833 end: 24800
+Z2: Don't worry, every member of the resistance is prepared to die fighting the tyranny of Kochamara.
+Z2: 
+
+LOZI010RA: start: 24900 end: 26333
+Raz: What's Kochamara?
+แรซ: 
+
+LOZI011Z2: start: 26400 end: 32333
+Z2: He's a giant monster like you, Goggalor. He brainwashed and enslaved almost everyone in Lungfishopolis.
+Z2: 
+
+LOZI012RA: start: 32566 end: 39766
+Raz: That stinks. So hey, have you seen any other humans around here? I'm looking for a girl called Lili.
+แรซ: 
+
+LOZI015Z2: start: 39766 end: 43866
+Z2: The government archives might have some information about your young girlfriend, Goggalor.
+Z2: 
+
+LOZI016RA: start: 43733 end: 48166
+Raz: I don't know if she's really my girlfriend. I mean, I think she--
+แรซ: 
+
+LOZI017Z2: start: 47866 end: 57066
+Z2: I only meant that she is your friend who is a girl, Goggalor. To access the archives, we must first destroy the broadcast tower Kochamara uses to control the populace.
+Z2: 
+
+LOZI018RA: start: 57366 end: 59500
+Raz: Check. I'll go smash that, then.
+แรซ: 
+
+LOZI019Z2: start: 59566 end: 66966
+Z2: Wait, Goggalor! In order to reach the tower, you'll need to pass through that wall of lasers. But you'll never make it through the lasers without our help.
+Z2: 
+
+LOZI020RA: start: 67033 end: 69066
+Raz: So are you gonna start helping soon?
+แรซ: 
+
+LOZI021Z2: start: 68900 end: 74600
+Z2: First, I need you to do something for the resistance. Punch a hole in that prison and free my comrades!
+Z2: 
+

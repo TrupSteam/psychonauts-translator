@@ -1,0 +1,32 @@
+NIIN001SA: start: 1466 end: 3633
+Sasha: Razputin, can you hear me?
+ซาช่า: 
+
+NIIN002RA: start: 4166 end: 7833
+Raz: Sasha, where am I?
+แรซ: 
+
+NIIN003SA: start: 7833 end: 13533
+Sasha: You are inside your own mind, but I'm not sure where. Tell me. What can you see?
+ซาช่า: 
+
+NIIN004RA: start: 14733 end: 18333
+Raz: I see a run-down gypsy caravan.
+แรซ: 
+
+NIIN005SA: start: 18333 end: 19633
+Sasha: Do you recognize it?
+ซาช่า: 
+
+NIIN006RA: start: 19633 end: 22733
+Raz: Yes. It's where I was born.
+แรซ: 
+
+NIIN007SA: start: 22666 end: 23866
+Sasha: I see...
+ซาช่า: 
+
+NIIN008SA: start: 23866 end: 25833
+Sasha: Compelling.
+ซาช่า: 
+

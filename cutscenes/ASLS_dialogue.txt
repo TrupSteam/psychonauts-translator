@@ -1,0 +1,140 @@
+ASLS001LO: start: 0 end: 5900
+LO: Worthless! These brains are worthless, Sheegor! Just like the one in your head!
+LO: 
+
+ASLS002SH: start: 5266 end: 11500
+SH: Oh, no, no, they're nice. They're--they're nice brains, Doctor Loboto. Really!
+SH: 
+
+ASLS003LO: start: 11233 end: 18133
+LO: They're TOO nice! They won't fight! I need killers! I need angry brains!
+LO: 
+
+ASLS004LO: start: 18133 end: 27433
+LO: I squeeze 'em, I poke 'em, I twist 'em! What do I have to do to make 'em fight? Maybe I should try my drill?
+LO: 
+
+ASLS005SH: start: 26800 end: 31366
+SH: I'm not going to bring you anymore brains if you're going to be so mean to them!
+SH: 
+
+ASLS008LO: start: 31366 end: 32500
+LO: No matter what I do?
+LO: 
+
+ASLS009SH: start: 32500 end: 35766
+SH: No. No matter... what.
+SH: 
+
+ASLS010LO: start: 35833 end: 38100
+LO: Not even if I--
+LO: 
+
+ASLS011SH: start: 37500 end: 38933
+SH: No! Don't!
+SH: 
+
+ASLS012LO: start: 38533 end: 41033
+LO: Not even if I cook you a little--
+LO: 
+
+ASLS013SH: start: 39566 end: 42333
+SH: Don't. Doctor, no!
+SH: 
+
+ASLS014LO: start: 41900 end: 43900
+LO: A little turtle soup?
+LO: 
+
+ASLS015SH: start: 43466 end: 45866
+SH: Please, Doctor Loboto. No!
+SH: 
+
+ASLS016LO: start: 45666 end: 49333
+LO: Huh? A nice hot turtle soup, hmm hmm?
+LO: 
+
+ASLS017SH: start: 48566 end: 49900
+SH: 
+SH: 
+
+ASLS018LO: start: 49400 end: 53966
+LO: Nothing better on a cold night like this than some boiling hot soup!
+LO: 
+
+ASLS019SH: start: 54100 end: 56733
+SH: Leave Mr. Pokeylope alone!!!
+SH: 
+
+ASLS020LO: start: 56400 end: 57766
+LO: Oh, okay.
+LO: 
+
+ASLS021SH: start: 57033 end: 59366
+SH: (Pant pant.)
+SH: 
+
+ASLS022LO: start: 58933 end: 60066
+LO: You sure?
+LO: 
+
+ASLS023SH: start: 59533 end: 61833
+SH: NO! I mean, YES!
+SH: 
+
+ASLS024LO: start: 61566 end: 63533
+LO: All right, all right.
+LO: 
+
+ASLS025LO: start: 63700 end: 66800
+LO: Oh, why don't I just go ahead and heat you up a cup?
+LO: 
+
+ASLS027LO: start: 67100 end: 71466
+LO: It's made of turtles! Turtles that you love!
+LO: 
+
+ASLS028LO: start: 71466 end: 75200
+LO: Isn't that right, Mr. Pokeylope?
+LO: 
+
+ASLS029SH: start: 73800 end: 76333
+SH: Stop it stop it stop it stop it stop it stop it!
+SH: 
+
+ASLS030LO: start: 75533 end: 78533
+LO: Okay, okay.
+LO: 
+
+ASLS031SH: start: 77066 end: 79000
+SH: (pant)
+SH: 
+
+ASLS032LO: start: 78766 end: 81900
+LO: Well, maybe I'll just make some for myself.
+LO: 
+
+ASLS033SH: start: 81333 end: 84033
+SH: 
+SH: 
+
+ASLS034LO: start: 82900 end: 89766
+LO: Bring me a good brain, Sheegor, or Mr. Pokeylope becomes Mr. Smokey-lope!
+LO: 
+
+ASLS035LO: start: 89766 end: 92233
+LO: Ha-ha-ha-ha-ha!
+LO: 
+
+ASLS036LO: start: 92233 end: 95500
+LO: Huah-huah-huah!
+LO: 
+
+ASLS037LO: start: 95500 end: 99300
+LO: Smokey-lope. HAAAAAA!
+LO: 
+
+ASLS038LO: start: 99400 end: 106866
+LO: When you're a dentist, you have to learn to have a sense of humor, you know. It helps to calm the patients down.
+LO: 
+

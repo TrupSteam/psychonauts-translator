@@ -1,0 +1,292 @@
+ASCA000LI: start: 1200 end: 6033
+Lili: Finally! If that thing gave me a cowlick, Coach Oleander's gonna burn.
+ลิลี่: 
+
+ASCA001MI: start: 6133 end: 10866
+Milla: At least he never got inside your brain. It's going to take me weeks to get my rhythm back!
+มิลล่า: 
+
+ASCA002SA: start: 10866 end: 15966
+Sasha: Razputin, you have surprised us yet again. I cannot thank you enough for what you've done.
+ซาช่า: 
+
+ASCA003RA: start: 16066 end: 18933
+Raz: Hey, hey. All in a day's work for a Psychonaut.
+แรซ: 
+
+ASCA004SA: start: 19066 end: 22100
+Sasha: Ha ha. Well... PSI CADET, you mean.
+ซาช่า: 
+
+ASCA005LI: start: 22133 end: 28466
+Lili: Hey, the Psychonauts should be so lucky to get someone like Raz. The brain he's got in there is--
+ลิลี่: 
+
+ASCA006CO: start: 28166 end: 34400
+Coach: Is one in a million! Thanks to all of you for bringing it straight to my door!
+โค้ช: 
+
+ASCA007MI: start: 34400 end: 34700
+Milla: (Gasp!)
+มิลล่า: 
+
+ASCA008SA: start: 34966 end: 36100
+Sasha: Oleander!
+ซาช่า: 
+
+ASCA009RA: start: 36100 end: 36666
+Raz: You! 
+แรซ: 
+
+ASCA010RA: start: 37366 end: 49166
+Raz: You took all my friends' brains, you turned an innocent fish into a giant monster, you stole all the teachers--DERAILING MY EDUCATION--AND you kidnapped--
+แรซ: 
+
+ASCA011RA: start: 49966 end: 51600
+Raz: MY GIRLFRIEND!
+แรซ: 
+
+ASCA012SA: start: 51600 end: 53966
+Sasha: Razputin, this fight is too big for you.
+ซาช่า: 
+
+ASCA013RA: start: 54100 end: 60766
+Raz: Back home I had to clean up after the elephants, so trust me, I know how to take care of this ugly, little pile of--
+แรซ: 
+
+ASCA014MI: start: 61966 end: 63833
+Milla: Kids, let the grown-ups handle this.
+มิลล่า: 
+
+ASCA015CO: start: 65866 end: 68066
+Coach: You tall people!
+โค้ช: 
+
+ASCA016RA: start: 76633 end: 77666
+Raz: Sasha!
+แรซ: 
+
+ASCA017LI: start: 77666 end: 79300
+Lili: We get to kill him too!
+ลิลี่: 
+
+ASCA018RA: start: 79300 end: 80066
+Raz: Ahhhhh!
+แรซ: 
+
+ASCA019ED: start: 80733 end: 84200
+ED: Well, it's official. The genius is back!
+ED: 
+
+ASCA020ED: start: 84966 end: 87166
+ED: Time to go get ready for my gallery show.
+ED: 
+
+ASCA021ED: start: 88633 end: 90666
+ED: Rrrrrrr... Ahhh!
+ED: 
+
+ASCA022ED: start: 93600 end: 95600
+ED: Uh-oh. This looks bad.
+ED: 
+
+ASCA023ED: start: 96866 end: 97500
+ED: (Sniff sniff, sniff)
+ED: 
+
+ASCA024ED: start: 98166 end: 102800
+ED: Ah, well, that's good. Someone must have turned off the gas long ago.
+ED: 
+
+ASCA025GL: start: 104200 end: 109100
+Gloria: Oh, here's what my poor flowers need! A little water!
+กลอเรีย: 
+
+ASCA026ED: start: 113666 end: 117600
+ED: Oh, no. I spilled all my turpentine and acetone!
+ED: 
+
+ASCA027FR: start: 130266 end: 133066
+FR: Hey, Boyd. Long time no see!
+FR: 
+
+ASCA028ED: start: 133266 end: 140500
+ED: Oh, Mr. Orderly. I did not see you there. I was just taking a little therapeutic walk in the moonlight
+ED: 
+
+ASCA029FR: start: 140433 end: 144166
+FR: Relax. The asylum's closed. We can all go home.
+FR: 
+
+ASCA030GL: start: 144633 end: 147266
+Gloria: Leave? Here?
+กลอเรีย: 
+
+ASCA031FR: start: 147400 end: 153733
+FR: Yeah, this place is for crazy people. And I don't know about you but I ain't crazy no more!
+FR: 
+
+ASCA032ED: start: 154700 end: 157566
+ED: I have to tell you, I'm feeling pretty good.
+ED: 
+
+ASCA033GL: start: 157800 end: 161833
+Gloria: You know, maybe it is time for us all to move on.
+กลอเรีย: 
+
+ASCA034FR: start: 162333 end: 163566
+FR: What do you think, Boyd?
+FR: 
+
+ASCA035FR: start: 163833 end: 165800
+FR: You ready to blow this popsicle stand?
+FR: 
+
+ASCA036BO: start: 179100 end: 181033
+Boyd: The Milkman has completed his route.
+บอยด์: 
+
+ASCA037BO: start: 182500 end: 183733
+Boyd: You guys want to split a cab?
+บอยด์: 
+
+ASCA038RA: start: 197400 end: 199266
+Raz: And the crib wasn't even that clean!
+แรซ: 
+
+ASCA039RA: start: 199800 end: 203266
+Raz: I mean, what do I have to do to get those guys to take me seriously?
+แรซ: 
+
+ASCA040LI: start: 203133 end: 205533
+Lili: When are you going to shut up and kiss me?
+ลิลี่: 
+
+ASCA041RA: start: 205666 end: 208066
+Raz: Um... I can hear that.
+แรซ: 
+
+ASCA042LI: start: 208066 end: 209033
+Lili: I know.
+ลิลี่: 
+
+ASCA043SA: start: 217400 end: 218366
+Sasha: Surrender!
+ซาช่า: 
+
+ASCA044CO: start: 218366 end: 219300
+Coach: Never!
+โค้ช: 
+
+ASCA045FO: start: 225866 end: 229600
+FO: The Psychonauts have a word for people who turn on their own!
+FO: 
+
+ASCA046CO: start: 229700 end: 236233
+Coach: Ha! I don't need the Psychonauts anymore! I'm making my own army! Got a word for that?
+โค้ช: 
+
+ASCA047FO: start: 236266 end: 239033
+FO: Yeah. Gesundheit!
+FO: 
+
+ASCA048CO: start: 239166 end: 239533
+Coach: Heh?
+โค้ช: 
+
+ASCA049CO: start: 240366 end: 244233
+Coach: Ah... ahh... ahhhh AHCHOO!
+โค้ช: 
+
+ASCA073LI: start: 247866 end: 249033
+Lili: Wow.
+ลิลี่: 
+
+ASCA074RA: start: 250033 end: 250566
+Raz: 
+แรซ: 
+
+ASCA050RA: start: 306366 end: 309766
+Raz: Hey, that was my fight! I was ready for that one!
+แรซ: 
+
+ASCA051SA: start: 309900 end: 315966
+Sasha: Always in such a rush, Razputin. It takes years before you're ready for combat of that magnitude.
+ซาช่า: 
+
+ASCA052FO: start: 315966 end: 322666
+FO: You'd be surprised, Nein. This one's been acing all my extra credit exams.  
+FO: 
+
+ASCA053RA: start: 322666 end: 325600
+Raz: I beat the Coach once already, and I can do it again.
+แรซ: 
+
+ASCA054MI: start: 325600 end: 330533
+Milla: Darling, that was just a remote projection of the Coach. He wasn't as strong as he would be...
+มิลล่า: 
+
+ASCA055MI: start: 331100 end: 334300
+Milla: ...if he were to appear... in the real world.
+มิลล่า: 
+
+ASCA056CO: start: 338233 end: 339766
+Coach: Teeee Veee?
+โค้ช: 
+
+ASCA057MI: start: 339966 end: 341966
+Milla: Ha ha ha!
+มิลล่า: 
+
+ASCA058SA: start: 340300 end: 341333
+Sasha: 
+ซาช่า: 
+
+ASCA060CO: start: 341966 end: 343666
+Coach: Teee VEEE?
+โค้ช: 
+
+ASCA061RA: start: 344000 end: 344933
+Raz: Where's his brain?
+แรซ: 
+
+ASCA062SA: start: 345566 end: 349633
+Sasha: Oh, probably stuck in one of his plans to take over the world somewhere.
+ซาช่า: 
+
+ASCA063SA: start: 350333 end: 351733
+Sasha: Ha ha!
+ซาช่า: 
+
+ASCA064MI: start: 350400 end: 352633
+Milla: 
+มิลล่า: 
+
+ASCA066CO: start: 362933 end: 365800
+Coach: Hey. How's the weather down there.
+โค้ช: 
+
+ASCA067CO: start: 372633 end: 377833
+Coach: Ah, finally. Alone at last, eh Razputin?
+โค้ช: 
+
+ASCA068RA: start: 377933 end: 380666
+Raz: Glad you're finally picking on someone your own size!
+แรซ: 
+
+ASCA069CO: start: 380800 end: 385700
+Coach: Yes, I've been dying for a chance to... PICK YOUR BRAIN.
+โค้ช: 
+
+ASCA070RA: start: 391333 end: 392933
+Raz: Two can play that game!
+แรซ: 
+
+ASCA071CO: start: 393066 end: 396066
+Coach: Yeah, but only one can win!
+โค้ช: 
+
+ASCA072CO: start: 396100 end: 398800
+Coach: Bwah ha ha ha!
+โค้ช: 
+

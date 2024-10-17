@@ -1,0 +1,8 @@
+INBB002CO: start: 1666 end: 3066
+Coach: You're late, Soldier!
+โค้ช: 
+
+INBB003CO: start: 3066 end: 5233
+Coach: Get in here and give me twenty!
+โค้ช: 
+

@@ -1,0 +1,60 @@
+NID1001DO: start: 0 end: 2500
+Dogen: Aaaaaaaa!
+โดแกน: 
+
+NID1002LO: start: 2166 end: 3766
+LO: Why are you screaming?
+LO: 
+
+NID1003LO: start: 4233 end: 7633
+LO: Oh right! I remember!
+LO: 
+
+NID1004DO: start: 8000 end: 11966
+Dogen: Wahhhhhhhh-a ha ha ha!
+โดแกน: 
+
+NID1005DO: start: 11966 end: 16900
+Dogen: (giggle giggle)
+โดแกน: 
+
+NID1006DO: start: 16900 end: 17833
+Dogen: A-CHOOO!
+โดแกน: 
+
+NID1007LO: start: 19633 end: 23566
+LO: Oh, good boy. There's that pesky brain.
+LO: 
+
+NID1008LO: start: 23566 end: 25000
+LO: Here's a tissue.
+LO: 
+
+NID1009LO: start: 25000 end: 28866
+LO: Now, don't you feel better, my dear lad?
+LO: 
+
+NID1010DO: start: 29733 end: 31333
+Dogen: TV?
+โดแกน: 
+
+NID1011LO: start: 31333 end: 33600
+LO: Of course! Right here!
+LO: 
+
+NID1012LO: start: 33600 end: 38533
+LO: And this BAD tooth, we just drop it in the old garbage chute!
+LO: 
+
+NID1013LO: start: 38700 end: 42833
+LO: Now, don't chew solid foods for six hours!
+LO: 
+
+NID1014RA: start: 45000 end: 45900
+Raz: Lili!
+แรซ: 
+
+NID1015DO: start: 53633 end: 55366
+Dogen: TV!
+โดแกน: 
+

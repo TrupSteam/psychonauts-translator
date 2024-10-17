@@ -1,0 +1,12 @@
+SACO001RA: start: 19666 end: 21566
+Raz: Oh, yeah. Come to poppa!
+แรซ: 
+
+SACO002SA: start: 23400 end: 26833
+Sasha: Raz, what have you done? This is not control! This is chaos!
+ซาช่า: 
+
+SACO003SA: start: 27033 end: 30366
+Sasha: I'll try to fix it. You stay here and keep their numbers under control.
+ซาช่า: 
+

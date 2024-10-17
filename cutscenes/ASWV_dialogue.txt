@@ -1,0 +1,32 @@
+ASWV001FR: start: 0 end: 4300
+FR: Is he really gone? Hello? Hello? Anyone else in here?
+FR: 
+
+ASWV002FR: start: 4300 end: 9866
+FR: Hah! We did it, Raz! I'm all me again! One person! Not French!
+FR: 
+
+ASWV003FR: start: 10166 end: 13433
+FR: Get me out of this dang jacket so I can go strangle me an orderly!
+FR: 
+
+ASWV004RA: start: 13333 end: 17100
+Raz: Hey, good thinking, Fred! That sure would save me a lot of work.
+แรซ: 
+
+ASWV005FR: start: 17100 end: 20433
+FR: Yup! Right after I take a nap!
+FR: 
+
+ASWV006RA: start: 20300 end: 23266
+Raz: Yes, a--what? Nap?
+แรซ: 
+
+ASWV007FR: start: 23266 end: 39766
+FR: (Sigh) War is hell, Razputin, and I'm sleepy. (Yawn) I'll take care of Crispin for you, just as soon as I... zzzzzz
+FR: 
+
+ASWV008RA: start: 37833 end: 38900
+Raz: Oh man.
+แรซ: 
+
