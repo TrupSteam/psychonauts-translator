@@ -108,7 +108,7 @@ ED:
 
 ASCA027FR: start: 130266 end: 133066
 FR: Hey, Boyd. Long time no see!
-FR: 
+FR: เฮ้, บอยด์. ไม่เจอกันนานเลยนะพวก!
 
 ASCA028ED: start: 133266 end: 140500
 ED: Oh, Mr. Orderly. I did not see you there. I was just taking a little therapeutic walk in the moonlight
@@ -116,15 +116,15 @@ ED:
 
 ASCA029FR: start: 140433 end: 144166
 FR: Relax. The asylum's closed. We can all go home.
-FR: 
+FR: ใจเย็น. โรงบาลปิดแล้ว เราทุกคนกลับบ้านได้
 
 ASCA030GL: start: 144633 end: 147266
 Gloria: Leave? Here?
-กลอเรีย: 
+กลอเรีย: ไป? จากนี่เหรอ?
 
 ASCA031FR: start: 147400 end: 153733
 FR: Yeah, this place is for crazy people. And I don't know about you but I ain't crazy no more!
-FR: 
+FR: ใช่, ที่นี่มันสำหรับคนบ้า แต่ฉันไม่ได้บ้าอีกต่อไปแล้ว
 
 ASCA032ED: start: 154700 end: 157566
 ED: I have to tell you, I'm feeling pretty good.
@@ -144,11 +144,11 @@ FR:
 
 ASCA036BO: start: 179100 end: 181033
 Boyd: The Milkman has completed his route.
-บอยด์: 
+บอยด์: คนส่งนมสิ้นสุดการเดินทางของเขาแล้ว.
 
 ASCA037BO: start: 182500 end: 183733
 Boyd: You guys want to split a cab?
-บอยด์: 
+บอยด์: พวกนายอยากหารค่าแทกซี่กันไหม?
 
 ASCA038RA: start: 197400 end: 199266
 Raz: And the crib wasn't even that clean!
