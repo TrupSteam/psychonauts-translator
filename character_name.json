@@ -28,315 +28,315 @@
         "TH": "ซาช่า"
     },
     "BN": {
-        "EN": "BN",
-        "TH": "BN"
+        "EN": "Benny",
+        "TH": "เบนนี่"
     },
     "CP": {
-        "EN": "CP",
-        "TH": "CP"
+        "EN": "Chops",
+        "TH": "ชอปส์"
     },
     "Z4": {
-        "EN": "Z4",
-        "TH": "Z4"
+        "EN": "Zealots-4",
+        "TH": "ปลากบฏ-4"
     },
     "Z3": {
-        "EN": "Z3",
-        "TH": "Z3"
+        "EN": "Zealots-3",
+        "TH": "ปลากบฏ-3"
     },
     "MF": {
-        "EN": "MF",
-        "TH": "MF"
+        "EN": "Maloof",
+        "TH": "มาลูฟ"
     },
     "BZ": {
         "EN": "Bobby",
         "TH": "บ๊อบบี้"
     },
     "CN": {
-        "EN": "CN",
-        "TH": "CN"
+        "EN": "Carpenter",
+        "TH": "ช่างไม้"
     },
     "FO": {
-        "EN": "FO",
-        "TH": "FO"
+        "EN": "Ford",
+        "TH": "ฟอร์ด"
     },
     "HF": {
-        "EN": "HF",
-        "TH": "HF"
+        "EN": "Yellow-Actor",
+        "TH": "น้องตัวเหลือง"
     },
     "DN": {
-        "EN": "DN",
-        "TH": "DN"
+        "EN": "Female-Dancer",
+        "TH": "นักเต้นหญิง"
     },
     "CH": {
-        "EN": "CH",
-        "TH": "CH"
+        "EN": "Chloe",
+        "TH": "โคลอี้"
     },
     "SF": {
-        "EN": "SF",
-        "TH": "SF"
+        "EN": "Pink-Flower",
+        "TH": "ดอกชมพู"
     },
     "ST": {
-        "EN": "ST",
-        "TH": "ST"
+        "EN": "Small-Thistle",
+        "TH": "ธิสเซิลน้อย"
     },
     "MP": {
-        "EN": "MP",
-        "TH": "MP"
+        "EN": "Milka",
+        "TH": "มิลก้า"
     },
     "LA": {
-        "EN": "LA",
-        "TH": "LA"
+        "EN": "Lampita",
+        "TH": "แลมพิต้า"
     },
     "CM": {
-        "EN": "CM",
-        "TH": "CM"
+        "EN": "Clem",
+        "TH": "เคลม"
     },
     "FT": {
-        "EN": "FT",
-        "TH": "FT"
+        "EN": "Big-Thistle",
+        "TH": "ธิสเซิลใหญ่"
     },
     "EL": {
-        "EN": "EL",
-        "TH": "EL"
+        "EN": "Elka",
+        "TH": "เอลก้า"
     },
     "SD": {
-        "EN": "SD",
-        "TH": "SD"
+        "EN": "Soldier",
+        "TH": "ทหาร"
     },
     "P1": {
-        "EN": "P1",
-        "TH": "P1"
+        "EN": "Peasant-1",
+        "TH": "ชาวนา-1"
     },
     "P3": {
-        "EN": "P3",
-        "TH": "P3"
+        "EN": "Peasant-3",
+        "TH": "ชาวนา-3"
     },
     "MM": {
         "EN": "MM",
         "TH": "MM"
     },
     "CB": {
-        "EN": "CB",
-        "TH": "CB"
+        "EN": "Cobra",
+        "TH": "นักสู้งู"
     },
     "PT": {
-        "EN": "PT",
-        "TH": "PT"
+        "EN": "Phantom",
+        "TH": "แฟนทอม"
     },
     "JA": {
-        "EN": "JA",
-        "TH": "JA"
+        "EN": "Jasper",
+        "TH": "แจสเปอร์"
     },
     "LC": {
-        "EN": "LC",
-        "TH": "LC"
+        "EN": "Lungfish-Citizen-1",
+        "TH": "ชาวปลาปอด-1"
     },
     "RQ": {
-        "EN": "RQ",
-        "TH": "RQ"
+        "EN": "Rainbow-Squirt",
+        "TH": "เนตรนารีสายรุ้ง"
     },
     "Z1": {
-        "EN": "Z1",
-        "TH": "Z1"
+        "EN": "Zealots-1",
+        "TH": "ปลากบฏ-1"
     },
     "AN": {
-        "EN": "AN",
-        "TH": "AN"
+        "EN": "Announcer",
+        "TH": "โฆษก"
     },
     "EV": {
-        "EN": "EV",
-        "TH": "EV"
+        "EN": "Evil",
+        "TH": "ปีศาจ"
     },
     "LF": {
-        "EN": "LF",
-        "TH": "LF"
+        "EN": "Linda",
+        "TH": "ลินดา"
     },
     "GD": {
-        "EN": "GD",
-        "TH": "GD"
+        "EN": "Augustus",
+        "TH": "ออกัสตัส"
     },
     "BT": {
-        "EN": "BT",
-        "TH": "BT"
+        "EN": "Bonita",
+        "TH": "โบนิต้า"
     },
     "FF": {
-        "EN": "FF",
-        "TH": "FF"
+        "EN": "Orange-Flower",
+        "TH": "น้องส้ม"
     },
     "DR": {
-        "EN": "DR",
-        "TH": "DR"
+        "EN": "Dragon",
+        "TH": "นักสู้มังกร"
     },
     "DM": {
-        "EN": "DM",
-        "TH": "DM"
+        "EN": "Den-Mother",
+        "TH": "เด็น-มาเธอร์"
     },
     "BY": {
-        "EN": "BY",
-        "TH": "BY"
+        "EN": "Minecart-System",
+        "TH": "ระบบรถราง"
     },
     "LR": {
-        "EN": "LR",
-        "TH": "LR"
+        "EN": "Lungfish-Citizen-2",
+        "TH": "ชาวปลาปอด-2"
     },
     "JT": {
-        "EN": "JT",
-        "TH": "JT"
+        "EN": "J.T.",
+        "TH": "เจ.ที."
     },
     "TO": {
         "EN": "TO",
-        "TH": "TO"
+        "TH": "ระบบ"
     },
     "HT": {
-        "EN": "HT",
-        "TH": "HT"
+        "EN": "Hound-Actor",
+        "TH": "หมาล่าเนื้อ"
     },
     "DA": {
-        "EN": "DA",
-        "TH": "DA"
+        "EN": "Dalmatian",
+        "TH": "ดัลเมเชี่ยน"
     },
     "LP": {
-        "EN": "LP",
-        "TH": "LP"
+        "EN": "Lungfish-Citizen-3",
+        "TH": "ชาวปลาปอด-3"
     },
     "LY": {
-        "EN": "LY",
-        "TH": "LY"
+        "EN": "Lungfish-Citizen-4",
+        "TH": "ชาวปลาปอด-4"
     },
     "KI": {
-        "EN": "KI",
-        "TH": "KI"
+        "EN": "Kitty",
+        "TH": "คิตตี้"
     },
     "BD": {
-        "EN": "BD",
-        "TH": "BD"
+        "EN": "Bulldog",
+        "TH": "บูลด็อก"
     },
     "PL": {
-        "EN": "PL",
-        "TH": "PL"
+        "EN": "Mr.Pokeylope",
+        "TH": "มิสเตอร์โพคีโลพ"
     },
     "BE": {
-        "EN": "BE",
-        "TH": "BE"
+        "EN": "Becky",
+        "TH": "เบ็คกี้"
     },
     "CF": {
-        "EN": "CF",
-        "TH": "CF"
+        "EN": "Crystal",
+        "TH": "คริสตัล"
     },
     "DO": {
         "EN": "Dogen",
         "TH": "โดแกน"
     },
     "MH": {
-        "EN": "MH",
-        "TH": "MH"
+        "EN": "Mikhail",
+        "TH": "มิคิล"
     },
     "MD": {
-        "EN": "MD",
-        "TH": "MD"
+        "EN": "Male-Dancer",
+        "TH": "นักเต้นชาย"
     },
     "EA": {
-        "EN": "EA",
-        "TH": "EA"
+        "EN": "Eagle",
+        "TH": "นักสู้เหยี่ยว"
     },
     "SB": {
-        "EN": "SB",
-        "TH": "SB"
+        "EN": "St.Bernard",
+        "TH": "เซนต์เบอร์นาด"
     },
     "CL": {
         "EN": "Collie",
-        "TH": "โคลอี้"
+        "TH": "คอลลี่"
     },
     "FA": {
-        "EN": "FA",
-        "TH": "FA"
+        "EN": "Franke",
+        "TH": "แฟรงกี้"
     },
     "CR": {
-        "EN": "CR",
-        "TH": "CR"
+        "EN": "Crispin",
+        "TH": "คริสปิน"
     },
     "SN": {
-        "EN": "SN",
-        "TH": "SN"
+        "EN": "Snails",
+        "TH": "หอยทาก"
     },
     "DI": {
-        "EN": "DI",
-        "TH": "DI"
+        "EN": "Dingo",
+        "TH": "ดิงโก้"
     },
     "GM": {
-        "EN": "GM",
-        "TH": "GM"
+        "EN": "G-Man",
+        "TH": "จีแมน"
     },
     "FR": {
         "EN": "Fred",
         "TH": "เฟร็ด"
     },
     "Z2": {
-        "EN": "Z2",
-        "TH": "Z2"
+        "EN": "Zealots-2",
+        "TH": "ปลากบฏ-2"
     },
     "PH": {
-        "EN": "PH",
-        "TH": "PH"
+        "EN": "Phoebe",
+        "TH": "ฟีบี้"
     },
     "EF": {
-        "EN": "EF",
-        "TH": "EF"
+        "EN": "Elton",
+        "TH": "เอลตัน"
     },
     "LO": {
-        "EN": "LO",
-        "TH": "LO"
+        "EN": "Dr.Loboto",
+        "TH": "ดร.โลโบโต้"
     },
     "QU": {
-        "EN": "QU",
-        "TH": "QU"
+        "EN": "Quentin",
+        "TH": "เควนติน"
     },
     "TI": {
-        "EN": "TI",
-        "TH": "TI"
+        "EN": "Tiger",
+        "TH": "นักสู้เสือ"
     },
     "NP": {
         "EN": "Napoleon",
         "TH": "นโปเลียน"
     },
     "KN": {
-        "EN": "KN",
-        "TH": "KN"
+        "EN": "Knight",
+        "TH": "อัศวิน"
     },
     "MA": {
-        "EN": "MA",
-        "TH": "MA"
+        "EN": "Matador",
+        "TH": "มาธาดอร์"
     },
     "BU": {
-        "EN": "BU",
-        "TH": "BU"
+        "EN": "Butcher",
+        "TH": "คนขายเนื้อ"
     },
     "VE": {
-        "EN": "VE",
-        "TH": "VE"
+        "EN": "Vernon",
+        "TH": "เวอร์นอน"
     },
     "SH": {
-        "EN": "SH",
-        "TH": "SH"
+        "EN": "Sheegor",
+        "TH": "ชีกอร์"
     },
     "RS": {
-        "EN": "RS",
-        "TH": "RS"
+        "EN": "Rainbow-Squirt",
+        "TH": "เนตรนารีสายรุ้ง"
     },
     "ED": {
-        "EN": "ED",
-        "TH": "ED"
+        "EN": "Edgar",
+        "TH": "เอ็ดการ์"
     },
     "P2": {
-        "EN": "P2",
-        "TH": "P2"
+        "EN": "Peasant-2",
+        "TH": "ชาวนา-2"
     },
     "NI": {
-        "EN": "NI",
-        "TH": "NI"
+        "EN": "Nils",
+        "TH": "นีลส์"
     },
     "OL": {
-        "EN": "OL",
-        "TH": "OL"
+        "EN": "Oly",
+        "TH": "โอลี้"
     }
 }
