@@ -34,3 +34,7 @@ F0 F1 F2 F3 F4 F5 F6 F7 F8 F9 FA FB FC FD FE FF
 
 ![psychonauts-char_full_eng](/char_full_eng.jpg)
 
+# Your fonts
+
+Use [DFF_Parser](https://github.com/TrupSteam/DFF_Parser) to create your own fonts in DFF format.
+
